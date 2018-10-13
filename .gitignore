@@ -1,3 +1,9 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
 *.py[cod]
 *.so
 *.egg
@@ -5,6 +11,9 @@
 dist
 build
 
+# My Developer:
 venv/
-__pycache__/
+*.pyc
 .idea/
+__pycache__/
+
