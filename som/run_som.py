@@ -1,5 +1,5 @@
 import numpy as np
-import reader as rd
+import som.reader as rd
 from som.class_som import Som
 
 """
