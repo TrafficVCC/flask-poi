@@ -1,5 +1,6 @@
 import numpy as np
 import math as math
+from som import model
 
 def haversine(lng1, lat1, lng2, lat2):
     lng1, lat1, lng2, lat2 = map(math.radians, [lng1, lat1, lng2, lat2])
@@ -36,3 +37,7 @@ levellist = [1,1,1,1,1,1]
 wl = 1
 wd = 1
 # trans_vector(data, typelist, levellist, wl, wd, 500)
+
+# 按行政区划获取事故点poi
+poi = model.getPoiByArea('高速')
+print(len(poi))

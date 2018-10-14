@@ -1,15 +1,18 @@
-from app import mysql
+from som import MysqlUtil
+import os
+
+mysqlHelper = MysqlUtil.MysqlUtil('127.0.0.1', 'root', 'asdf', 'vccp')
 
 def getAllArea():
     """
     查询所有事故点
     :return: [{},{},...]
     """
-    cur = mysql.connection.cursor()
+    conn, cur = mysqlHelper.getConnect()
     sql = "select xzqhms, sgdd, lng_bmap as lng, lat_bmap as lat, count(*) as count from ybsg \
            where precise = 1 group by xzqhms, sgdd, lng_bmap, lat_bmap"
-    cur.execute(sql)
-    rv = cur.fetchall()
+    rv = mysqlHelper.fetchall(sql)
+    mysqlHelper.close(conn, cur)
     return rv
 
 def getAreaByName(name):
@@ -18,11 +21,11 @@ def getAreaByName(name):
     :param name:
     :return:
     """
-    cur = mysql.connection.cursor()
+    conn, cur = mysqlHelper.getConnect()
     sql = "select xzqhms, sgdd, lng_bmap as lng, lat_bmap as lat, count(*) as count from ybsg \
-           where xzqhms = %s and precise = 1 group by xzqhms, sgdd, lng_bmap, lat_bmap"
-    cur.execute(sql, (name,))
-    rv = cur.fetchall()
+              where xzqhms = %s and precise = 1 group by xzqhms, sgdd, lng_bmap, lat_bmap"
+    rv = mysqlHelper.fetchall(sql, name)
+    mysqlHelper.close(conn, cur)
     return rv
 
 def getPoiBySgdd(sgdd, xzqh):
@@ -31,10 +34,10 @@ def getPoiBySgdd(sgdd, xzqh):
     :param sgdd:
     :return:
     """
-    cur = mysql.connection.cursor()
+    conn, cur = mysqlHelper.getConnect()
     sql = "select type, distance from poi where sgdd = %s and xzqhms = %s"
-    cur.execute(sql, (sgdd, xzqh))
-    rv = cur.fetchall()
+    rv = mysqlHelper.fetchall(sql, (sgdd, xzqh,))
+    mysqlHelper.close(conn, cur)
     return rv
 
 def getPoiByArea(xzqh):
@@ -59,10 +62,7 @@ def getPoiByArea(xzqh):
         else:
             count += 1
     print(count)
-    print(len(poi_list))
     return poi_list
-
 
 if __name__ == '__main__':
     getPoiByArea('瑶海区')
-

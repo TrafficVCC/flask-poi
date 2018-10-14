@@ -23,4 +23,3 @@ for c in clusters:
     c['points'] = points_id.copy()
 print(clusters)
 
-
