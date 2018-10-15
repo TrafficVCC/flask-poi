@@ -8,8 +8,13 @@ app.config.from_object('config')
 mysql = MySQL(app)
 
 @app.route('/')
+@app.route('/bmap')
 def index():
     return render_template('bmap.html')
+
+@app.route('/mapbox')
+def mapbox():
+    return render_template('mapbox.html')
 
 @app.route('/poi-page')
 def poi_page():
@@ -18,8 +23,15 @@ def poi_page():
 @app.route('/area', methods=['GET', 'POST'])
 def area():
     # 获取Get数据
-    xzqh = request.args.get('xzqh', 'no data')
-    res = models.getAllArea()
+    xzqh = request.args.get('xzqh', None)
+    res = []
+    print(xzqh)
+    if xzqh is None:
+        return res
+    elif xzqh == 'all':
+        res = models.getAllArea()
+    else:
+        res = models.getAreaByName(xzqh)
     print(len(res))
     return jsonify(res)
 
