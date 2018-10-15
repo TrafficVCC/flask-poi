@@ -1,6 +1,6 @@
 var xzqh = {
     'hefei': {
-        'xzqh': '合肥市',
+        'xzqh': 'all',
         'center': [31.825351, 117.233441]
     },
     'shushan': {
