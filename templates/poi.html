@@ -14,28 +14,25 @@
     <body>
         <div id="map"></div>
         <script src="../static/js/bmap2.js"></script>
+        <script src="../static/js/color.js"></script>
         <script>
             $(document).ready(function () {
-                $.ajax({
-                    url: '../static/data/baohequClusters.json',
-                    async: false,
-                    success: function (data) {
-                        console.log(data);
-                        for (var i=0; i<data.length; i++) {
-                            var color = getRandomColor();
-                            var points = data[i]['points'];
-                            for (var j=0; j<points.length; j++) {
-                                L.circleMarker([points[j].lat, points[j].lng], {
-                                    fillColor: color,
-                                    radius: 10,
-                                    color: "gray",
-                                    opacity: 0.8,
-                                    weight: 2.0,
-                                    fillOpacity: 0.8
-                                }).bindTooltip(points[j].sgdd,{ direction: 'left' }).addTo(map);
-                            }
-                        }
-                     }
+                $.getJSON("{{url_for('static', filename='data/baohequClusters3.json')}}", function (data) {
+                    for (var i=0; i<data.length; i++) {
+                    var color = i < 10 ? colors[i] : getRandomColor();
+                    var points = data[i]['points'];
+                    console.log(points);
+                    for (var j=0; j<points.length; j++) {
+                        L.circleMarker([points[j].lat, points[j].lng], {
+                            fillColor: color,
+                            radius: 8,
+                            color: "gray",
+                            opacity: 0.8,
+                            weight: 1.0,
+                            fillOpacity: 0.8
+                        }).bindTooltip(points[j].sgdd,{ direction: 'left' }).addTo(map);
+                    }
+                    }
                 });
             });
 
