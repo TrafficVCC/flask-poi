@@ -17,7 +17,7 @@
         <script src="../static/js/color.js"></script>
         <script>
             $(document).ready(function () {
-                $.getJSON("{{url_for('static', filename='data/baohequClusters3.json')}}", function (data) {
+                $.getJSON("{{url_for('static', filename='clusterdata/baohequClusters.json')}}", function (data) {
                     for (var i=0; i<data.length; i++) {
                     var color = i < 10 ? colors[i] : getRandomColor();
                     var points = data[i]['points'];
