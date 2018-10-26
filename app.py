@@ -8,17 +8,21 @@ app.config.from_object('config')
 mysql = MySQL(app)
 
 @app.route('/')
-@app.route('/bmap')
+@app.route('/index')
 def index():
+    return render_template('index.html')
+
+@app.route('/cluster')
+def cluster():
     return render_template('bmap.html')
 
 @app.route('/mapbox')
 def mapbox():
     return render_template('mapbox.html')
 
-@app.route('/poi-page')
+@app.route('/som')
 def poi_page():
-    return render_template('poi.html')
+    return render_template('cluster.html')
 
 @app.route('/area', methods=['GET', 'POST'])
 def area():

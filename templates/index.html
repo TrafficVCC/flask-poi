@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>POI Visualization</title>
+    <link rel="stylesheet" href="../static/lib/leaflet/leaflet.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="../static/css/dashboard2.css" rel="stylesheet">
+    <![endif]-->
+</head>
+
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">POI Visualization</a>
+        </div>
+        <div>
+            <p class="navbar-text">当前区域-蜀山区</p>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">Dashboard</a></li>
+                <li><a href="#">Settings</a></li>
+            </ul>
+            <form class="navbar-form navbar-right">
+                <input type="text" class="form-control" placeholder="Search...">
+            </form>
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2 sidebar">
+            <ul class="nav nav-sidebar">
+                <li value="baohe" class="active"><a href="#">包河区 </a></li>
+                <li value="yaohai"><a href="#">瑶海区</a></li>
+                <li value="shushan"><a href="#">蜀山区</a></li>
+                <li value="luyang"><a href="#">庐阳区</a></li>
+                <li value="changfeng"><a href="#">长丰县</a></li>
+                <li value="feidong"><a href="#">肥东县</a></li>
+                <li value="feixi"><a href="#">肥西县</a></li>
+                <li value="lujiang"><a href="#">庐江县</a></li>
+                <li value="chaohu"><a href="#">巢湖市</a></li>
+                <li value="gaosu"><a href="#">高速</a></li>
+                <li value="shixia"><a href="#">市辖区</a></li>
+            </ul>
+        </div>
+        <div class="col-md-10 col-md-offset-2 main">
+            <div class="row maprow">
+                <div class="col-md-8 panel panel-default panel-body" id="map">
+                </div>
+                <div class="col-md-4 panel panel-default panel-body" id="somType">
+                    各类别统计图
+                </div>
+            </div>
+
+            <div class="row pararow">
+                <div class="col-md-8 panel panel-default panel-body" id="parallel">
+                    平行坐标图
+                </div>
+                <div class="col-md-4 panel panel-default panel-body" id="somColor">
+                    som颜色主题图
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="../static/lib/leaflet/leaflet.js"></script>
+<script src="../static/lib/proj4-compressed.js"></script>
+<script src="../static/lib/proj4leaflet.js"></script>
+<script src="../static/lib/tileLayer.baidu.js"></script>
+<script src="../static/js/bmap2.js"></script>
+<script src="../static/js/xzqh.js"></script>
+<script src="../static/js/color.js"></script>
+<script>
+    var clusterGroup = L.layerGroup();
+    var c10 = d3.scale.category10();
+
+    //选择侧边栏行政区划, 更新cluster
+    $(".nav-sidebar li").on("click", function() {
+        $(".nav-sidebar li").removeClass("active");
+        $(this).addClass("active");
+        var text = "当前区域-" + $(this).text();
+        $(".navbar-text").html(text);
+        var value = $(this).attr("value");
+        var cluster = xzqh[value]['cluster'];
+        var center = xzqh[value]['center'];
+        updateCluster(cluster, center);
+    });
+
+    updateCluster(xzqh['baohe']['cluster'], xzqh['baohe']['center']);
+
+    function updateCluster(cluster, center) {
+        $.getJSON('/static/clusterdata/' + cluster, function (data) {
+            var layers = [];
+            clusterGroup.clearLayers();
+            for (var i=0; i<data.length; i++) {
+                var color = i < 10 ? c10.range()[i] : getRandomColor();
+                var points = data[i]['points'];
+                console.log(points);
+                for (var j=0; j<points.length; j++) {
+                    var layer = L.circleMarker([points[j].lat, points[j].lng], {
+                        fillColor: color,
+                        radius: 6,
+                        color: "gray",
+                        opacity: 0.8,
+                        weight: 1.0,
+                        fillOpacity: 0.8
+                    }).bindTooltip(points[j].sgdd,{ direction: 'left' });
+                    layers.push(layer);
+                }
+            }
+            clusterGroup = L.layerGroup(layers);
+            map.addLayer(clusterGroup);
+            map.setView(center, 12);
+        });
+    }
+
+
+    var getRandomColor = function() {
+          return (function(m,s,c){
+            return (c ? arguments.callee(m,s,c-1) : '#') +
+              s[m.floor(m.random() * 16)]
+          })(Math,'0123456789abcdef',5)
+    }
+
+</script>
+
+</body>
+</html>
+
