@@ -67,7 +67,7 @@
                 <div class="col-md-8 panel panel-default panel-body" id="map">
                 </div>
                 <div class="col-md-4 panel panel-default panel-body" id="somType">
-                    各类别统计图
+                    <!--各类别统计图-->
                 </div>
             </div>
 
@@ -95,10 +95,12 @@
 <script src="../static/lib/tileLayer.baidu.js"></script>
 <script src="../static/js/bmap2.js"></script>
 <script src="../static/js/xzqh.js"></script>
-<script src="../static/js/color.js"></script>
+<script src="../static/js/barChart.js"></script>
 <script>
     var clusterGroup = L.layerGroup();
     var c10 = d3.scale.category10();
+    var clusterData;    //全局存储som分类数据
+    var clusterCount = [];   //存储每个类别point数量
 
     //选择侧边栏行政区划, 更新cluster
     $(".nav-sidebar li").on("click", function() {
@@ -116,6 +118,8 @@
 
     function updateCluster(cluster, center) {
         $.getJSON('/static/clusterdata/' + cluster, function (data) {
+            clusterData = data;
+            clusterCount = [];  //每次clusterCount必须清空
             var layers = [];
             clusterGroup.clearLayers();
             for (var i=0; i<data.length; i++) {
@@ -137,6 +141,12 @@
             clusterGroup = L.layerGroup(layers);
             map.addLayer(clusterGroup);
             map.setView(center, 12);
+
+            for (var i=0; i<data.length; i++) {
+                clusterCount.push({'name': "class"+data[i]['class'], 'value': data[i]['points'].length, 'color': c10.range()[i]});
+            }
+            console.log(clusterCount);
+            drawBarChart(clusterCount);
         });
     }
 

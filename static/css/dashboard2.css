@@ -125,3 +125,26 @@ body {
     height: 0;
     /*box-shadow: 0 0 5px black;*/
 }
+
+/* bar chart */
+#somType > svg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.axis {
+    font-size: 13px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    display: none;
+}
+
+.label {
+    font-size: 13px;
+}
