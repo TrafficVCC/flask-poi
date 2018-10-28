@@ -34,7 +34,7 @@ function drawBarChart(data) {
         })]);
 
     var y = d3.scale.ordinal()
-        .rangeRoundBands([height, 0], .1)
+        .rangeRoundBands([height, 0], .2)
         .domain(data.map(function (d) {
             return d.name;
         }));

@@ -95,12 +95,13 @@
 <script src="../static/lib/tileLayer.baidu.js"></script>
 <script src="../static/js/bmap2.js"></script>
 <script src="../static/js/xzqh.js"></script>
+<script src="../static/js/mapCluster.js"></script>
 <script src="../static/js/barChart.js"></script>
 <script>
-    var clusterGroup = L.layerGroup();
-    var c10 = d3.scale.category10();
+    clusterGroup = L.layerGroup();
+    c10 = d3.scale.category10();
     var clusterData;    //全局存储som分类数据
-    var clusterCount = [];   //存储每个类别point数量
+    clusterCount = [];   //存储每个类别point数量
 
     //选择侧边栏行政区划, 更新cluster
     $(".nav-sidebar li").on("click", function() {
@@ -114,49 +115,8 @@
         updateCluster(cluster, center);
     });
 
+    //初始包河区
     updateCluster(xzqh['baohe']['cluster'], xzqh['baohe']['center']);
-
-    function updateCluster(cluster, center) {
-        $.getJSON('/static/clusterdata2/' + cluster, function (data) {
-            clusterData = data;
-            clusterCount = [];  //每次clusterCount必须清空
-            var layers = [];
-            clusterGroup.clearLayers();
-            for (var i=0; i<data.length; i++) {
-                var color = i < 10 ? c10.range()[i] : getRandomColor();
-                var points = data[i]['points'];
-                console.log(points);
-                for (var j=0; j<points.length; j++) {
-                    var layer = L.circleMarker([points[j].lat, points[j].lng], {
-                        fillColor: color,
-                        radius: 6,
-                        color: "gray",
-                        opacity: 0.8,
-                        weight: 1.0,
-                        fillOpacity: 0.8
-                    }).bindTooltip(points[j].sgdd + "<br>事故数:"+points[j].count ,{ direction: 'left' });
-                    layers.push(layer);
-                }
-            }
-            clusterGroup = L.layerGroup(layers);
-            map.addLayer(clusterGroup);
-            map.setView(center, 12);
-
-            for (var i=0; i<data.length; i++) {
-                clusterCount.push({'name': "class"+data[i]['class'], 'value': data[i]['points'].length, 'color': c10.range()[i]});
-            }
-            console.log(clusterCount);
-            drawBarChart(clusterCount);
-        });
-    }
-
-
-    var getRandomColor = function() {
-          return (function(m,s,c){
-            return (c ? arguments.callee(m,s,c-1) : '#') +
-              s[m.floor(m.random() * 16)]
-          })(Math,'0123456789abcdef',5)
-    }
 
 </script>
 
