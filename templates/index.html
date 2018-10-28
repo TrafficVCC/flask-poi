@@ -117,7 +117,7 @@
     updateCluster(xzqh['baohe']['cluster'], xzqh['baohe']['center']);
 
     function updateCluster(cluster, center) {
-        $.getJSON('/static/clusterdata/' + cluster, function (data) {
+        $.getJSON('/static/clusterdata2/' + cluster, function (data) {
             clusterData = data;
             clusterCount = [];  //每次clusterCount必须清空
             var layers = [];
@@ -134,7 +134,7 @@
                         opacity: 0.8,
                         weight: 1.0,
                         fillOpacity: 0.8
-                    }).bindTooltip(points[j].sgdd,{ direction: 'left' });
+                    }).bindTooltip(points[j].sgdd + "<br>事故数:"+points[j].count ,{ direction: 'left' });
                     layers.push(layer);
                 }
             }

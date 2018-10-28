@@ -57,7 +57,7 @@ var xzqh = {
     'shixia': {
         'xzqh': '市辖区',
         'center': [31.825351, 117.233441],
-        'cluster': 'shixiaquCluster.json'
+        'cluster': 'shixiaquClusters.json'
     }
 };
 

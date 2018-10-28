@@ -44,7 +44,7 @@ def getPoiByArea(xzqh):
     """
     获取行政区划下事故地点的POI
     :param xzqh:
-    :return: [{'center': {'sgdd': 'aa', 'lng': 11, 'lat': 22},
+    :return: [{'center': {'sgdd': 'aa', 'lng': 11, 'lat': 22, count: 4},
                'poi': [{'type': xx, 'dis': 123}, {}, ...] }]
     """
     sgdd_list = getAreaByName(xzqh)
@@ -55,7 +55,7 @@ def getPoiByArea(xzqh):
         rv = getPoiBySgdd(sgdd, xzqh)
         pp = {}
         if rv:
-            pp['center'] = {'sgdd': sgdd, 'lng': item['lng'], 'lat': item['lat']}
+            pp['center'] = {'sgdd': sgdd, 'lng': item['lng'], 'lat': item['lat'], 'count': item['count']}
             pp['poi'] = rv
             poi_list.append(pp)
             print(pp)
