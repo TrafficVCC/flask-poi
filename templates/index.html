@@ -31,7 +31,8 @@
             <a class="navbar-brand" href="#">POI Visualization</a>
         </div>
         <div>
-            <p class="navbar-text">当前区域-蜀山区</p>
+            <p class="navbar-text area">当前区域-蜀山区</p>
+            <p class="navbar-text type">当前类别-all</p>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -93,23 +94,27 @@
 <script src="../static/lib/proj4-compressed.js"></script>
 <script src="../static/lib/proj4leaflet.js"></script>
 <script src="../static/lib/tileLayer.baidu.js"></script>
+<script src="../static/lib/geojson.js/geojson.min.js"></script>
 <script src="../static/js/bmap2.js"></script>
 <script src="../static/js/xzqh.js"></script>
-<script src="../static/js/mapCluster.js"></script>
 <script src="../static/js/barChart.js"></script>
+<script src="../static/js/update.js"></script>
 <script>
     clusterGroup = L.layerGroup();
     c10 = d3.scale.category10();
     var clusterData;    //全局存储som分类数据
     clusterCount = [];   //存储每个类别point数量
+    xzqh_value = 'baohe';
+    window.type = "all";    //当前类别
 
     //选择侧边栏行政区划, 更新cluster
     $(".nav-sidebar li").on("click", function() {
         $(".nav-sidebar li").removeClass("active");
         $(this).addClass("active");
         var text = "当前区域-" + $(this).text();
-        $(".navbar-text").html(text);
+        $(".area").html(text);
         var value = $(this).attr("value");
+        xzqh_value = value;
         var cluster = xzqh[value]['cluster'];
         var center = xzqh[value]['center'];
         updateCluster(cluster, center);

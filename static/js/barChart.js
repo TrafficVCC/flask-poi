@@ -1,4 +1,5 @@
-function drawBarChart(data) {
+ //bar chart
+ function drawBarChart(data) {
     console.log(data);
     d3.select("#somType").select("svg > *").remove();
     var element = d3.select('#somType').node();
@@ -83,4 +84,12 @@ function drawBarChart(data) {
         .text(function (d) {
             return d.value;
         });
+
+    bars.on("click", function (d) {
+        alert(d.type);
+        window.type = d.type;
+        updateTypePoi(d.type);
+        var text = "当前类别-class" + window.type;
+        $(".type").html(text);
+    });
 }

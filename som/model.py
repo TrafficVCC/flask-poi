@@ -1,5 +1,5 @@
 from som import MysqlUtil
-import os
+import json
 
 mysqlHelper = MysqlUtil.MysqlUtil('127.0.0.1', 'root', 'asdf', 'vccp')
 
@@ -64,5 +64,37 @@ def getPoiByArea(xzqh):
     print(count)
     return poi_list
 
+def updateSomType(data):
+    conn, cur = mysqlHelper.getConnect()
+    sql = "update ybsg set type = %s \
+           where xzqhms = %s and sgdd = %s and lng_bmap = %s and lat_bmap = %s"
+
+    count = mysqlHelper.update(sql, data, batch=1)
+    conn.commit()
+    mysqlHelper.close(conn, cur)
+    return count
+
+def storeSom(path):
+    data = []
+    with open(path, 'r', encoding='UTF-8') as load_f:
+        data = json.load(load_f)
+        for d in data:
+            somType = d['class']
+            print("class: " + str(somType))
+            li = []
+            for point in d['points']:
+                sgdd = point['sgdd']
+                lng = point['lng']
+                lat = point['lat']
+                item = (somType, xzqh, sgdd, lng, lat)
+                li.append(item)
+                print(item)
+            count = updateSomType(li)
+            print(count)
+
 if __name__ == '__main__':
-    getPoiByArea('瑶海区')
+    base = "../static/clusterdata2/"
+    fileName = "feidongxianClusters.json"
+    xzqh = "肥东县"
+    path = base + fileName
+    storeSom(path)

@@ -49,5 +49,16 @@ def poi():
     print(len(res))
     return jsonify(res)
 
+@app.route("/typepoi", methods=['GET', 'POST'])
+def typepoi():
+    type = request.args.get('type', None)
+    xzqh = request.args.get('xzqh', None)
+    if xzqh is None or type is None:
+        return
+    print(xzqh)
+    print(type)
+    res = models.poiType(xzqh, type)
+    return jsonify(res)
+
 if __name__ == '__main__':
     app.run(debug=True)
