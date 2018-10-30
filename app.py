@@ -2,6 +2,7 @@ from flask import Flask
 from flask_mysqldb import MySQL
 from flask import render_template, request, jsonify
 import models
+import json
 
 app = Flask(__name__)
 app.config.from_object('config')
@@ -59,6 +60,17 @@ def typepoi():
     print(type)
     res = models.poiType(xzqh, type)
     return jsonify(res)
+
+@app.route('/geojson', methods=['GET', 'POST'])
+def geojson():
+    #存储geojson文件
+    path = "./static/geojsondata/"
+    data = json.loads(request.form.get('data'))
+    filename = request.form.get('filename') + ".geojson"
+    print(data)
+    with open(path+filename, 'w') as f:
+        f.write(json.dumps(data, indent=2, ensure_ascii=False))
+    return str("success")
 
 if __name__ == '__main__':
     app.run(debug=True)

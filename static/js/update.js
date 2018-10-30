@@ -6,7 +6,7 @@
             var layers = [];
             clusterGroup.clearLayers();
             for (var i=0; i<data.length; i++) {
-                var color = i < 10 ? c10.range()[i] : getRandomColor();
+                var color = i < 10 ? colorlist[data[i]['class']] : getRandomColor();
                 var points = data[i]['points'];
                 console.log(points);
                 for (var j=0; j<points.length; j++) {
@@ -26,15 +26,16 @@
             map.setView(center, 12);
 
             for (var i=0; i<data.length; i++) {
-                clusterCount.push({'name': "class"+data[i]['class'], 'value': data[i]['points'].length, 'color': c10.range()[i], 'type': data[i]['class']});
+                clusterCount.push({'name': "class"+data[i]['class'], 'value': data[i]['points'].length, 'color': colorlist[data[i]['class']], 'type': data[i]['class']});
             }
             console.log(clusterCount);
             drawBarChart(clusterCount);
         });
     }
 
-    //选择某个类别后,请求该类别各个事故点POI数据
+    //选择某个类别后,请求该类别各个事故点POI数据, 并存储为geojson
     function updateTypePoi(type) {
+        clusterGroup.clearLayers();
         alert("update");
         $.ajax({
             type: "GET",
@@ -53,8 +54,17 @@
 
     var convertGeoJson = function (js) {
         poiType = [{"poi": "0"}, {'交通设施': "1"}, {'休闲娱乐': '2'}, {'教育培训': '3'}, {'旅游景点': '4'}, {'美食': '5'}, {'购物': '6'}];
-        GeoJSON.parse(js, {Point: ['lng', 'lat']}, function (geojson) {
+        GeoJSON.parse(js, {Point: ['lat', 'lng']}, function (geojson) {
             console.log(JSON.stringify(geojson));
+            $.ajax({
+                type: "POST",
+                url:'/geojson',
+                data: {"data": JSON.stringify(geojson), "filename": xzqh_value + window.type },
+                dataType:'json',//希望服务器返回json格式的数据
+                success: function (data, status) {
+                    alert(status);
+                }
+            });
         });
     };
 

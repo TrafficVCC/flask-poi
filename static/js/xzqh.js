@@ -2,22 +2,26 @@ var xzqh = {
     'hefei': {
         'xzqh': 'all',
         'center': [31.825351, 117.233441],
-        'cluster': 'hefeishiCluster.json'
+        'cluster': 'hefeishiCluster.json',
+        'geojson': ['hefei0.geojson', 'hefei1.geojson', 'hefei2.geojson', 'hefei3.geojson', 'hefei4.geojson', 'hefei5.geojson', 'hefei6.geojson', 'hefei7.geojson', 'hefei8.geojson']
     },
     'shushan': {
         'xzqh': '蜀山区',
         'center': [31.857743, 117.267217],
-        'cluster': 'shushanquClusters.json'
+        'cluster': 'shushanquClusters.json',
+        'geojson': ['shushan0.geojson', 'shushan1.geojson', 'shushan2.geojson', 'shushan3.geojson', 'shushan4.geojson', 'shushan5.geojson', 'shushan6.geojson', 'shushan7.geojson', 'shushan8.geojson']
     },
     'yaohai': {
         'xzqh': '瑶海区',
         'center': [31.864123, 117.316947],
-        'cluster': 'yaohaiquClusters.json'
+        'cluster': 'yaohaiquClusters.json',
+        'geojson': ['yaohai0.geojson', 'yaohai1.geojson', 'yaohai2.geojson', 'yaohai3.geojson', 'yaohai4.geojson', 'yaohai5.geojson', 'yaohai6.geojson', 'yaohai7.geojson', 'yaohai8.geojson']
     },
     'baohe': {
         'xzqh': '包河区',
         'center':[31.79933, 117.317522],
-        'cluster': 'baohequClusters.json'
+        'cluster': 'baohequClusters.json',
+        'geojson': ['baohe0.geojson', 'baohe1.geojson', 'baohe2.geojson', 'baohe3.geojson', 'baohe4.geojson', 'baohe5.geojson', 'baohe6.geojson', 'baohe7.geojson', 'baohe8.geojson']
     },
     'luyang': {
         'xzqh': '庐阳区',

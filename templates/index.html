@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="../static/lib/leaflet/leaflet.css">
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/lib/leaflet-dvf/css/dvf.css">
     <!-- Custom styles for this template -->
     <link href="../static/css/dashboard2.css" rel="stylesheet">
     <![endif]-->
@@ -95,13 +96,16 @@
 <script src="../static/lib/proj4leaflet.js"></script>
 <script src="../static/lib/tileLayer.baidu.js"></script>
 <script src="../static/lib/geojson.js/geojson.min.js"></script>
+<script src="../static/lib/leaflet-dvf/leaflet-dvf.js"></script>
 <script src="../static/js/bmap2.js"></script>
 <script src="../static/js/xzqh.js"></script>
 <script src="../static/js/barChart.js"></script>
 <script src="../static/js/update.js"></script>
+<script src="../static/js/drawMap.js"></script>
 <script>
     clusterGroup = L.layerGroup();
-    c10 = d3.scale.category10();
+    geoLayer = L.geoJSON();
+    colorlist = d3.scale.category10().range();
     var clusterData;    //全局存储som分类数据
     clusterCount = [];   //存储每个类别point数量
     xzqh_value = 'baohe';
@@ -117,6 +121,7 @@
         xzqh_value = value;
         var cluster = xzqh[value]['cluster'];
         var center = xzqh[value]['center'];
+        geoLayer.clearLayers();
         updateCluster(cluster, center);
     });
 

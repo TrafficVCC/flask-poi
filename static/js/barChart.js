@@ -87,8 +87,11 @@
 
     bars.on("click", function (d) {
         alert(d.type);
+        geoLayer.clearLayers();
         window.type = d.type;
-        updateTypePoi(d.type);
+        geoFile = "/static/geojsondata/" + xzqh_value + window.type + ".geojson";
+        drawGeoType(geoFile);
+        //updateTypePoi(d.type);
         var text = "当前类别-class" + window.type;
         $(".type").html(text);
     });
