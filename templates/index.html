@@ -98,13 +98,15 @@
 <script src="../static/lib/geojson.js/geojson.min.js"></script>
 <script src="../static/js/bmap2.js"></script>
 <script src="../static/js/xzqh.js"></script>
+<script src="../static/js/color.js"></script>
 <script src="../static/js/barChart.js"></script>
 <script src="../static/js/update.js"></script>
 <script src="../static/js/drawMap.js"></script>
 <script>
     clusterGroup = L.layerGroup();
     geoLayer = L.geoJSON();
-    colorlist = d3.scale.category10().range();
+    //colorlist = d3.scale.category10().range();
+    colorlist = getcolormat();
     clusterCount = [];   //存储每个类别point数量
     xzqh_value = 'baohe';
     window.type = "all";    //当前类别
