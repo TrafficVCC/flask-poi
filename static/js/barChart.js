@@ -87,6 +87,9 @@
 
     bars.on("click", function (d) {
         alert(d.type);
+        if (d.type == window.type)
+            return;
+        poilegend.remove();
         geoLayer.clearLayers();
         window.type = d.type;
         geoFile = "/static/geojsondata/" + xzqh_value + window.type + ".geojson";

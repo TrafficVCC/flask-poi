@@ -10,10 +10,9 @@
     <meta name="author" content="">
     <title>POI Visualization</title>
     <link rel="stylesheet" href="../static/lib/leaflet/leaflet.css">
+    <link href="../static/lib/leaflet-dvf/css/dvf.css" rel="stylesheet">
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../static/lib/leaflet-dvf/css/dvf.css">
-    <!-- Custom styles for this template -->
     <link href="../static/css/dashboard2.css" rel="stylesheet">
     <![endif]-->
 </head>
@@ -92,11 +91,11 @@
 <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="../static/lib/leaflet/leaflet.js"></script>
+<script src="../static/lib/leaflet-dvf/leaflet-dvf.js"></script>
 <script src="../static/lib/proj4-compressed.js"></script>
 <script src="../static/lib/proj4leaflet.js"></script>
 <script src="../static/lib/tileLayer.baidu.js"></script>
 <script src="../static/lib/geojson.js/geojson.min.js"></script>
-<script src="../static/lib/leaflet-dvf/leaflet-dvf.js"></script>
 <script src="../static/js/bmap2.js"></script>
 <script src="../static/js/xzqh.js"></script>
 <script src="../static/js/barChart.js"></script>
@@ -106,10 +105,10 @@
     clusterGroup = L.layerGroup();
     geoLayer = L.geoJSON();
     colorlist = d3.scale.category10().range();
-    var clusterData;    //全局存储som分类数据
     clusterCount = [];   //存储每个类别point数量
     xzqh_value = 'baohe';
     window.type = "all";    //当前类别
+    poilegend = L.control({position: 'bottomright'});
 
     //选择侧边栏行政区划, 更新cluster
     $(".nav-sidebar li").on("click", function() {
@@ -122,6 +121,7 @@
         var cluster = xzqh[value]['cluster'];
         var center = xzqh[value]['center'];
         geoLayer.clearLayers();
+        poilegend.remove();
         updateCluster(cluster, center);
     });
 

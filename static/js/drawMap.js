@@ -1,16 +1,17 @@
 //选择某一类别后绘制该类别相关数据
-poilist = ['交通设施', '休闲娱乐', '教育培训', '旅游景点', '美食', '购物'];
+poilist = ['休闲娱乐', '教育培训', '旅游景点', '交通设施', '美食', '购物'];
 poicolor = [
-    {'fill': "#BFB", 'stroke': '#070'},
     {'fill': "#F88", 'stroke': '#800'},
     {'fill': "#FA0", 'stroke': '#B60'},
     {'fill': "#FF3", 'stroke': '#D80'},
+    {'fill': "#BFB", 'stroke': '#070'},
     {'fill': "#9DF", 'stroke': '#007'},
     {'fill': "#CCC", 'stroke': '#444'}
 ];
 
 function drawGeoType(geojsonPath) {
     renderLegend();
+
     d3.json(geojsonPath, function(error, data) {
         if (!error) {
             clusterGroup.clearLayers();
@@ -37,9 +38,9 @@ function drawGeoType(geojsonPath) {
 var pointToLayer = function (feature, latlng) {
     var colorValue = Math.random() * 360;
     var options = {
-        //color: '#000',
+        color: '#000',
         weight: 1.5,
-        // fillColor: 'hsl(' + colorValue + ',100%,50%)',
+        fillColor: 'hsl(' + colorValue + ',100%,50%)',
         radius: 20,
         fillOpacity: 1.0,
         rotation: 0.0,
@@ -63,16 +64,16 @@ var pointToLayer = function (feature, latlng) {
     console.log(poi_map);
 
     options.data = {
-        '交通设施': poi_map['交通设施'],
         '休闲娱乐': poi_map['休闲娱乐'],
         '教育培训': poi_map['教育培训'],
         '旅游景点': poi_map['旅游景点'],
+        '交通设施': poi_map['交通设施'],
         '美食': poi_map['美食'],
         '购物': poi_map['购物']
     };
 
     options.chartOptions = {
-        '交通设施': {
+        '休闲娱乐': {
             fillColor: poicolor[0].fill,
             color: poicolor[0].stroke,
             minValue: 0,
@@ -82,7 +83,7 @@ var pointToLayer = function (feature, latlng) {
                 return value;
             }
         },
-        '休闲娱乐': {
+        '教育培训': {
             fillColor: poicolor[1].fill,
             color: poicolor[1].stroke,
             minValue: 0,
@@ -92,7 +93,7 @@ var pointToLayer = function (feature, latlng) {
                 return value;
             }
         },
-        '教育培训': {
+        '旅游景点': {
             fillColor: poicolor[2].fill,
             color: poicolor[2].stroke,
             minValue: 0,
@@ -102,7 +103,7 @@ var pointToLayer = function (feature, latlng) {
                 return value;
             }
         },
-        '旅游景点': {
+         '交通设施': {
             fillColor: poicolor[3].fill,
             color: poicolor[3].stroke,
             minValue: 0,
@@ -143,5 +144,21 @@ var onEachFeature = function (feature, layer) {
 
 /*Function for generating a legend with the same categories as in the clusterPie*/
 function renderLegend() {
+    poilegend = L.control({position: 'bottomright'});
 
-}
+    poilegend.onAdd = function (map) {
+
+        var div = L.DomUtil.create('div', 'info legend');
+
+        // loop through our density intervals and generate a label with a colored square for each interval
+        for (var i = 0; i < poilist.length; i++) {
+            div.innerHTML +=
+                '<i style="background:' + poicolor[i].fill + '"></i> ' +
+                poilist[i] + '<br>';
+        }
+
+        return div;
+    };
+
+    poilegend.addTo(map);
+};

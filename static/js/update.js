@@ -1,7 +1,6 @@
     //请求som聚类结果
     function updateCluster(cluster, center) {
         $.getJSON('/static/clusterdata2/' + cluster, function (data) {
-            clusterData = data;
             clusterCount = [];  //每次clusterCount必须清空
             var layers = [];
             clusterGroup.clearLayers();
@@ -53,7 +52,6 @@
 
 
     var convertGeoJson = function (js) {
-        poiType = [{"poi": "0"}, {'交通设施': "1"}, {'休闲娱乐': '2'}, {'教育培训': '3'}, {'旅游景点': '4'}, {'美食': '5'}, {'购物': '6'}];
         GeoJSON.parse(js, {Point: ['lat', 'lng']}, function (geojson) {
             console.log(JSON.stringify(geojson));
             $.ajax({
