@@ -16,7 +16,6 @@
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <link href="../static/css/dashboard2.css" rel="stylesheet">
-    <link href="../static/css/clusterpies.css" rel="stylesheet">
     <![endif]-->
 </head>
 
@@ -105,11 +104,11 @@
 <script src="../static/js/color.js"></script>
 <script src="../static/js/barChart.js"></script>
 <script src="../static/js/update.js"></script>
-<script src="../static/js/drawMap.js"></script>
+<script src="../static/js/drawMap2.js"></script>
 <script>
     clusterGroup = L.layerGroup();
     geoLayer = L.geoJSON();
-    //markerclusters = L.markerClusterGroup();
+    markerclusters = L.markerClusterGroup();
     //colorlist = d3.scale.category10().range();
     colorlist = getcolormat();
     clusterCount = [];   //存储每个类别point数量
@@ -127,8 +126,7 @@
         xzqh_value = value;
         var cluster = xzqh[value]['cluster'];
         var center = xzqh[value]['center'];
-        //geoLayer.clearLayers();
-        markerclusters.clearLayers();
+        geoLayer.clearLayers();
         poilegend.remove();
         updateCluster(cluster, center);
     });

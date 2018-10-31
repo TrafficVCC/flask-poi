@@ -91,6 +91,7 @@
             return;
         poilegend.remove();
         geoLayer.clearLayers();
+        markerclusters.clearLayers();
         window.type = d.type;
         geoFile = "/static/geojsondata/" + xzqh_value + window.type + ".geojson";
         drawGeoType(geoFile);
