@@ -130,6 +130,9 @@
         //geoLayer.clearLayers();
         markerclusters.clearLayers();
         poilegend.remove();
+        window.type = "all";
+        var text = "当前类别-" + window.type;
+        $(".type").html(text);
         updateCluster(cluster, center);
     });
 

@@ -27,7 +27,7 @@ revlookup = {
     "购物": "6"
 };
 
-var rmax = 30; //Maximum radius for cluster pies
+var rmax = 35; //Maximum radius for cluster pies
 markerclusters = L.markerClusterGroup({
     maxClusterRadius: 2*rmax,
     iconCreateFunction: defineClusterIcon //this is where the magic happens
@@ -42,14 +42,6 @@ function drawGeoType(geojsonPath) {
         if (!error) {
             clusterGroup.clearLayers();
             console.log(data);
-            var geojsonOptions = {
-                fillColor: colorlist[window.type],
-                radius: 6,
-                color: "gray",
-                opacity: 0.8,
-                weight: 1.0,
-                fillOpacity: 0.8
-            };
             markers = L.geoJSON(data, {
                 pointToLayer: pointToLayer,
                 onEachFeature: onEachFeature
@@ -66,7 +58,7 @@ function drawGeoType(geojsonPath) {
 var pointToLayer = function (feature, latlng) {
     var options = {
         fillColor: colorlist[window.type],
-        radius: 6,
+        radius: 8,
         color: "gray",
         opacity: 0.8,
         weight: 1.0,
