@@ -17,6 +17,7 @@
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <link href="../static/css/dashboard2.css" rel="stylesheet">
     <link href="../static/css/clusterpies.css" rel="stylesheet">
+    <link href="../static/css/pcpstyle.css" rel="stylesheet">
     <![endif]-->
 </head>
 
@@ -77,7 +78,7 @@
 
             <div class="row pararow">
                 <div class="col-md-8 panel panel-default panel-body" id="parallel">
-                    平行坐标图
+                    <!--平行坐标图-->
                 </div>
                 <div class="col-md-4 panel panel-default panel-body" id="somColor">
                     som颜色主题图
@@ -106,6 +107,7 @@
 <script src="../static/js/barChart.js"></script>
 <script src="../static/js/update.js"></script>
 <script src="../static/js/drawMap.js"></script>
+<script src="../static/js/pcp.js"></script>
 <script>
     clusterGroup = L.layerGroup();
     geoLayer = L.geoJSON();
@@ -116,6 +118,7 @@
     xzqh_value = 'baohe';
     window.type = "all";    //当前类别
     poilegend = L.control({position: 'bottomright'});
+    var linedata = [];  //存储平行坐标图数据
 
     //选择侧边栏行政区划, 更新cluster
     $(".nav-sidebar li").on("click", function() {

@@ -2,6 +2,7 @@
     function updateCluster(cluster, center) {
         $.getJSON('/static/clusterdata2/' + cluster, function (data) {
             clusterCount = [];  //每次clusterCount必须清空
+            linedata = [];
             var layers = [];
             clusterGroup.clearLayers();
             for (var i=0; i<data.length; i++) {
@@ -29,6 +30,15 @@
             }
             console.log(clusterCount);
             drawBarChart(clusterCount);
+
+            for (var i=0; i<data.length; i++) {
+                linedata.push({
+                    'class': data[i]['class'],
+                    'value': data[i]['points'].length,
+                    'color': colorlist[data[i]['class']]
+                });
+            }
+            drawPCP(linedata);
         });
     }
 

@@ -141,8 +141,9 @@ body {
 
 .axis path,
 .axis line {
-    fill: none;
-    display: none;
+    /* 与平行坐标图的axis冲突 */
+    /*fill: none;*/
+    /*display: none;*/
 }
 
 .label {
