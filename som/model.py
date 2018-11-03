@@ -39,8 +39,9 @@ def _getPoiBySgdd(sgdd, xzqh):
     :return:
     """
     conn, cur = mysqlHelper.getConnect()
-    sql = "select type, distance from poi where sgdd = %s and xzqhms = %s"
-    rv = mysqlHelper.fetchall(sql, (sgdd, xzqh,))
+    sql = "select type, distance from poi where sgdd = %s and xzqhms = %s \
+           and type in %s and distance <= %s"
+    rv = mysqlHelper.fetchall(sql, (sgdd, xzqh, pois, radius))
     mysqlHelper.close(conn, cur)
     return rv
 
@@ -108,6 +109,4 @@ if __name__ == '__main__':
     # xzqh = "肥东县"
     # path = base + fileName
     # storeSom(path, xzqh)
-    pois = config.get_pois()
-    radius = config.get_radius()
-    precise = config.get_precise()
+    getPoiByArea('市辖区')

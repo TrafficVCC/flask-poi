@@ -36,8 +36,9 @@ def getPoiBySgdd(sgdd, xzqh):
     :return:
     """
     cur = mysql.connection.cursor()
-    sql = "select type, distance from poi where sgdd = %s and xzqhms = %s"
-    cur.execute(sql, (sgdd, xzqh))
+    sql = "select type, distance from poi where sgdd = %s and xzqhms = %s \
+           and type in %s and distance <= %s"
+    cur.execute(sql, (sgdd, xzqh, pois, radius))
     rv = cur.fetchall()
     return rv
 
@@ -87,8 +88,8 @@ def getAreaByType(xzqh, type):
 def getPoiByType(xzqh, sgdd):
     cur = mysql.connection.cursor()
     sql = "select type, count(*) as count from poi \
-           where xzqhms = %s and sgdd = %s group by type"
-    cur.execute(sql, (xzqh, sgdd))
+           where xzqhms = %s and sgdd = %s and type in %s and distance <= %s group by type"
+    cur.execute(sql, (xzqh, sgdd, pois, radius))
     rv = cur.fetchall()
     return rv
 
