@@ -1,4 +1,8 @@
 from app import mysql
+import config
+pois = config.get_pois()
+radius = config.get_radius()
+precise = config.get_precise()
 
 def getAllArea():
     """
