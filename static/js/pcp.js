@@ -28,11 +28,19 @@ function drawPCP(data) {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     d3.csv('/static/clusterdata2/thew.csv', function(error, wdata) {
+        //
         x.domain(dimensions = d3.keys(wdata[0]).filter(function(d) {
-            // return d != "class" && (y[d] = d3.scale.linear()
-            return y[d] = d3.scale.linear()
-                .domain(d3.extent(wdata, function(p) { return +p[d]; }))
-                .range([height, 0]);
+            if(d == "class"){
+                y[d] = d3.scale.linear()
+                    .domain(d3.extent(wdata, function(p) { return +p[d]; }))
+                    .range([height, 0]);
+            }
+            else{
+                y[d] = d3.scale.linear()
+                    .domain([0,1])
+                    .range([height, 0]);
+            }
+            return y[d];
         }));
 
         var lines = [];
