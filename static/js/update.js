@@ -1,6 +1,6 @@
     //请求som聚类结果
     function updateCluster(cluster, center) {
-        $.getJSON('/static/clusterdata2/' + cluster, function (data) {
+        $.getJSON(clusterdataPath + cluster, function (data) {
             clusterCount = [];  //每次clusterCount必须清空
             linedata = [];
             var layers = [];

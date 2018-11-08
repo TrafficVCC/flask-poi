@@ -27,7 +27,7 @@ function drawPCP(data) {
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    d3.csv('/static/clusterdata2/thew.csv', function(error, wdata) {
+    d3.csv(clusterdataPath+'thew.csv', function(error, wdata) {
         //
         x.domain(dimensions = d3.keys(wdata[0]).filter(function(d) {
             if(d == "class"){

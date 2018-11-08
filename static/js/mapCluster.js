@@ -1,5 +1,5 @@
    function updateCluster(cluster, center) {
-        $.getJSON('/static/clusterdata2/' + cluster, function (data) {
+        $.getJSON(clusterdataPath + cluster, function (data) {
             clusterData = data;
             clusterCount = [];  //每次clusterCount必须清空
             var layers = [];

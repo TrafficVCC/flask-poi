@@ -26,7 +26,7 @@ var colors = [
 
 function getcolormat(){
     var colorlist = [];
-    $.getJSON('/static/clusterdata2/colorlist3x3.json', function (data) {
+    $.getJSON(clusterdataPath + 'colorlist3x3.json', function (data) {
         data.forEach(function (d, i) {
             colorlist.push(d3.lab(d[0], d[1], d[2]));
         })
