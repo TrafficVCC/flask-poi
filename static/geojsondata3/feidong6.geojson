@@ -1,0 +1,1941 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道合蚌路15KM+500M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490472844274,
+          31.8861578650539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道合蚌路38KM+600M路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490994227979,
+          31.8867006655889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道林业大厦处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490352765082,
+          31.887550104771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道肥东县合蚌路19KM+400M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490532940913,
+          31.8861926640662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道肥东县合蚌路21KM+200M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490530964641,
+          31.8862356645896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道肥东县合蚌路25KM+600M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490463695033,
+          31.8865708846306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道肥东县合蚌路30KM+200M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491002413339,
+          31.8863486777633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "101省道肥东县合蚌路43KM+300M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490497547676,
+          31.8869577024352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 6
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "101省道（安乐路肥东法院处）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.463761190952,
+          31.8931615502195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "331省道临湖路彩虹新城B8栋处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.432869180413,
+          31.885331404537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 7
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "331省道南环路瑞景兰庭路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.448232730669,
+          31.8777890734735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "331省道（肥东县桥头集路与龙泉路交口处）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.459041160531,
+          31.8847229146844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "人民路肥东金海翔大酒店东一巷口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.470431563008,
+          31.8255197875607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 10
+          }
+        ],
+        "sgdd": "包公大道与唐杨路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.475420509268,
+          31.8982905332943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 7
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "南环路瑞景兰庭路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.448232730669,
+          31.8777890734735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 7
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "南环路盛世家园处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.449588413819,
+          31.8764802911187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路11K+340M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490510919178,
+          31.8859077159485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路13K+100M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490500015321,
+          31.8860188194121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "合蚌路16KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491084064818,
+          31.8853064668247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路19K+400M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490532940913,
+          31.8861926640662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路20KM+900M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491057012348,
+          31.8854129790458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路25K+600M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490463695033,
+          31.8865708846306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路26K处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490914547082,
+          31.8860016375347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路27KM+100M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490454662571,
+          31.8866169135483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路31K+350M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490499649711,
+          31.8867397209617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路32K+750M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490993382673,
+          31.8863867122371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路3K+450M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490500015321,
+          31.8860188194121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路43K+470M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490497547676,
+          31.8869577024352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "合蚌路4K+840M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491008025053,
+          31.8852729640952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路9K+85M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490521823035,
+          31.8857966123495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合蚌路林业大厦处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490352765082,
+          31.887550104771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "合青路肥东县公园路水岸花园北门前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.40548251967,
+          31.838045560372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "合马路41KM+750M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.425013124135,
+          31.8381944077004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "合马路幸福家园商业街口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.42469892202,
+          31.8394194395231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "塘杨路X023线石塘医院附近处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.475304776077,
+          31.89924702887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "撮镇路与民兵路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.477209219691,
+          31.8849780393776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "杨店至黄栗之间公路上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.552841207696,
+          32.082481926996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "桂王路御景花园小区门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.454138856736,
+          31.8895928237984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "桴槎路镇北居委会附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.481210056839,
+          31.9009994352745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥东县临泉东路城关医院门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.449921420163,
+          31.8901610230778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥东县合蚌路20KM+900M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491057012348,
+          31.8854129790458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥东县合蚌路36KM+900M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491003290983,
+          31.8865936401705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥东县合蚌路37KM+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490505632426,
+          31.8867916802264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥东县合蚌路4KM+500M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491008025053,
+          31.8852729640952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥东县合蚌路9KM+500M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.490521823035,
+          31.8857966123495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "肥东县店白路圣泉中学前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.484491484223,
+          31.8987114492449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "青春菜市场门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.480092318649,
+          31.8934266604395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "青河路肥东县撮镇镇肥东县人民医院处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.477706232367,
+          31.8869520577617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "龙泉路与桥头集路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.459041160531,
+          31.8847229146844
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2873 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "206国道老合淮路吴山街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.074343955766,
+          32.0740199877012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "X008线（合水路）47KM+700M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "双凤区街道蒙城北路与金宁路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.263176624069,
+          31.9631502809623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 7
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "双凤区街道蒙城北路与魏武路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.26070542334,
+          31.9904667896428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 6
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "双凤区街道金兰路合肥市威力矿山机械制造有限公司东15米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.268960407213,
+          31.9844425584255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 9
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "双凤区街道阜阳北路与双凤路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.271993197107,
+          31.968136376441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "双凤区街道阜阳北路与金梅路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.267742025569,
+          31.9818462785154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "双凤区街道阜阳北路与魏武路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.267361462033,
+          31.9907299425442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "双凤经济开发区金安路001号门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.28281051121,
+          31.9843898291673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇蒙城北路北城世纪城2期附近路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.258267614423,
+          32.0022521876847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇街道北城世纪城二期泽徽苑南大门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.258267614423,
+          32.0022521876847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "双墩镇街道双凤大道合肥源徽工贸有限公司大门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.267266657564,
+          31.9851131128722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇街道蒙城北路北城世纪城二期购物中心天桥附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.258267614423,
+          32.0022521876847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 59,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "合水路(孟祥光)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路0033公里120米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路0039公里200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路0039公里400米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路13km+500m(永丰村路口)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路13km+700m(曹宵天)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路15KM+920M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路17KM+750M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路21KM+980M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路21千米+450米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 8
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "合水路22km+100m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273751441798,
+          31.9674923577064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路25公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路27公里900米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路30公里0米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路32km+200m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路35公里220米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路35公里300米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路35公里400米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路35公里800米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路36公里200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路36公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路37公里220米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路37公里350米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路37公里400米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路38公里300米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路39公里200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路39公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路40公里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路:合水路0025公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路:合水路0026公里760米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路:合水路0035公里200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路:合水路0036公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路:合水路0040公里000米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路:合水路下塘纬四路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路与下塘支路交叉口北20米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "合水路与陶湖交通街交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "合水路双墩镇街道彩虹大酒店门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.263692134652,
+          32.0107224525684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "合淮路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.092752002632,
+          32.2076530396083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "合淮路与万安大道交岔路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.092752002632,
+          32.2076530396083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "合淮路长丰县岗集镇合肥宏胜物流有限公司门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.206025298354,
+          31.9429297676859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "合瓦公路(岗合公路)与富康路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.203306002711,
+          31.9500418674041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "吴山镇昌林路距合淮路一公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.092752002632,
+          32.2076530396083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "吴炎路土拐至小甸土拐粮站门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.109459077473,
+          32.263465722651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "土拐至十里井公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.109459077473,
+          32.263465722651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "岗集镇街道金岗大道远景大酒店门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.201327661791,
+          31.9593132034519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "新合水路与下塘支路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "新合水路与纬三路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "新合水路陶湖北大街路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "新合水路（下塘段）与纬三路交叉口南10米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 9
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "烟汕线1020公里30米长丰县吴山镇街道老合淮路吴山罐头厂门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.077402416535,
+          32.0776277919415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "烟汕线合淮路1034公里加860米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.092752002632,
+          32.2076530396083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "烟汕线合淮路义井乡水管站北150米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.092752002632,
+          32.2076530396083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "烟汕线合淮路长丰县吴山镇楼南路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.092752002632,
+          32.2076530396083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "烟汕线长丰县合淮路岗集镇合肥岗集宏胜物流产业园门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.206423622288,
+          31.9430060896701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "烟汕线（206国道）长丰县岗集镇宏胜物流产业园对面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.206108935088,
+          31.9429111115555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "金岗大道与富康路路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.205271389167,
+          31.9486087892986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "长丰县双凤区街道阜阳北路与魏武路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.267361462033,
+          31.9907299425442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长丰县双凤区街道阜阳北路鸿路钢构门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.267604865995,
+          31.978229532959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "长丰县双墩镇街道阜阳北路与双墩路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.263541143868,
+          32.01234450878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "长丰县合水路15km+200m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 8
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "长丰县合水路22km+050m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273751441798,
+          31.9674923577064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "长丰县合水路29公里800米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "长丰县合水路X008线35KM+450M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "长丰县合水路罗集街道电视转播台路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长丰县岗集镇金岗大道与富康路路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.205271389167,
+          31.9486087892986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "长丰县新合水路与下塘支路路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131369647167,
+          32.3540611709952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "阜阳北路蓝侨酒店门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.265865298274,
+          32.0050854638447
+        ]
+      }
+    }
+  ]
+}

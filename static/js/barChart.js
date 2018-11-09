@@ -93,9 +93,9 @@
         geoLayer.clearLayers();
         markerclusters.clearLayers();
         window.type = d.type;
-        geoFile = "/static/geojsondata/" + xzqh_value + window.type + ".geojson";
-        drawGeoType(geoFile);
-        //updateTypePoi(d.type);
+        geoFile = geojsondataPath + xzqh_value + window.type + ".geojson";
+        //drawGeoType(geoFile);
+        updateTypePoi(d.type);
         var text = "当前类别-class" + window.type;
         $(".type").html(text);
     });

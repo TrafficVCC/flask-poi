@@ -1,0 +1,2237 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "101省道(包公大道尚真中学门前路段处）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.48763915212,
+          31.8984076667674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "101省道梁园镇农民工创业园门口时"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.518294789733,
+          31.9445017022702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "101省道（肥东县包公大道沿河西路交口）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.469908702489,
+          31.8981934969794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道20KM+1O米处（105省道老合马路撮镇大桥西150米处）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道与东风大道交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道华东国际建材中心附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道合马路与东华大道路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道合马路撮镇一中处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道合马路撮镇电灌站附近处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道合马路白鲟水泥厂门口东三十米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道合马路龙塘浙商城处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道撮镇镇华盛大运城工地内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "105省道撮镇镇瑞福蓉商务宾馆门前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.416792235447,
+          31.8387283689574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道撮镇镇铁道桥附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 7
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "105省道肥东县包公大道凯悦中学对面处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.472446400284,
+          31.9004800850305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县合马路12KM+150M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县合马路4KM+800M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "105省道肥东县合马路水利水电学院东50M路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.437119605459,
+          31.8304546221379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县撮镇大费村乡村水泥路循环公租房门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县撮镇镇乳泉路复兴交叉路口西200米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县撮镇镇建华村荷塘大门向东边200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县撮镇镇曹营街石油处天桥北头"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道肥东县撮镇镇王沟路与枣树路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道龙塘幸福家园小区旁道路与合马路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 5
+          }
+        ],
+        "sgdd": "105省道龙塘建华村附近处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.413651463842,
+          31.8384177596831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "331省道肥东县合店路与祥和路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.436699493125,
+          31.8797925745547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "331省道肥东县合店路与祥和路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.436699493125,
+          31.8797925745547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "331省道肥东县合店路东方花园门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.430144263174,
+          31.8792045414184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "331省道肥东县徽商建材城36栋旁的交叉路口处113KM+1M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.43635914493,
+          31.8740597280944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "331省道肥东县祥和路合店路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.436699493125,
+          31.8797925745547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "331省道荷花路与祥和路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.435935332475,
+          31.8925640843379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "331省道长江东路与祥和路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.436699493125,
+          31.8797925745547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "S101省道(包公大道东方花园路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.430144263174,
+          31.8792045414184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "冯城街与马桥路路口北"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.474451746962,
+          31.8330203405812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 7
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "包公大道凯悦中学处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.472446400284,
+          31.9004800850305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "包公大道汇景新城北门处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.465855485147,
+          31.8979716151827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合店路与祥和路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.436699493125,
+          31.8797925745547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "合店路东方花园处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.430144263174,
+          31.8792045414184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "合店路东方花园门前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.430144263174,
+          31.8792045414184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "合店路肥东县公路局对面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.470168213968,
+          31.8810712097122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合店路龙东加油站处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.438614462184,
+          31.8794920559727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 6
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合白路白龙法庭处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.435254543559,
+          32.1500886558276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "合马路18K+380M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.432744527948,
+          31.8320112430355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "安徽省肥东县合店路肥东县烟草专卖局门前路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.440318617804,
+          31.8801716402542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "店忠路与长临镇星光西路岔路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.472617302009,
+          31.6954670522203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "店忠路盛世新城路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.491053372414,
+          31.8271455224184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "店高路定光小学门前路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.499444041742,
+          31.891540439936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "振东大道东方花园路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.430144263174,
+          31.8792045414184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "振东大道汇景新城小区北门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.465974975051,
+          31.8979855451717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "桂王南路威萨厂附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.456294444112,
+          31.8726145166709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "桂王南路肥东县六中附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.456294444112,
+          31.8726145166709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "桴槎路与才华路交口向北50米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.487275352761,
+          31.8992967732749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "石长路肥东县振东大道盛嘉欧园对面路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.448575681255,
+          31.8991637523242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "祥和路与合店路交叉路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.436699493125,
+          31.8797925745547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "祥和路公园路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.437044196305,
+          31.8732073119727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥东县包公大道与沿河西路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.469908702489,
+          31.8981934969794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥东县包公大道东方花园后门路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.430144263174,
+          31.8792045414184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 6
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥东县庞合路白龙镇白龙红府超市门前路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.43534760801,
+          32.1503955105343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥东县梁园路镇北幼儿园门前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.48072250332,
+          31.9011480447008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "龙东加油站处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.438614462184,
+          31.8794920559727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "龙泉路龙东加油站附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.438614462184,
+          31.8794920559727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 2
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "（101省道）肥东县张集中学附近处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.669138745935,
+          32.0390884022836
+        ]
+      }
+    }
+  ]
+}

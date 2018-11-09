@@ -1,0 +1,3597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "103省道肥西县合铜路三河镇富宁花园东大门路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.258993830648,
+          31.5183450166672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "S315线10KM+100m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.880998022716,
+          31.6313634272859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "S315线14KM+970m处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.880998022716,
+          31.6313634272859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "S315线2KM+600m处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.880998022716,
+          31.6313634272859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "S315线5KM+600m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.880998022716,
+          31.6313634272859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "云谷路与青龙潭路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.191372526943,
+          31.7349220980437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "农兴街道华南城华一路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.094062854947,
+          31.774400173666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "合安路计划生育服务站门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158267588391,
+          31.71973310435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "天竹路与明珠路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.186238631004,
+          31.8088693751887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "天竹路世纪精信门口西100米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.186381608004,
+          31.8115801578145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "官亭镇王集街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.776804356224,
+          31.8815858506772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 6
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "文山路与汤口路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150080061871,
+          31.7807699389576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "明珠路与天竹路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.186238631004,
+          31.8088693751887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "明珠路格力北门附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.18623860136,
+          31.8088393670764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "杨林路香樟花园45幢楼下西侧水泥路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.190830285483,
+          31.8164357101139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "杨林路香樟花园北门附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.192182162513,
+          31.8169762405642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "杨桃路13KM+580M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.879559341526,
+          31.6325187122365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "杭埠路与长安路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.177712716392,
+          31.8132277915983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 6
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "格力电器公司商用分厂4号门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.182026806146,
+          31.811146603364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "桥湾路好又多超市门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.19154169404,
+          31.81542267635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "森林大道华南城附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.094062854947,
+          31.774400173666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "森林大道肥西县紫蓬镇政府十字路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.038154808313,
+          31.7607058326835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 6
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "汤口路与文山路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150080061871,
+          31.7807699389576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 6
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "汤口路与文山路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150080061871,
+          31.7807699389576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "烟汕线肥西县上派镇南郢小区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188551828777,
+          31.7342453783816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "烟汕线肥西县上派镇南郢小区门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188551828777,
+          31.7342453783816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "烟汕线肥西县上派镇合铜路与潭冲路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.157400691235,
+          31.7052081773378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "烟汕线肥西县上派镇站前路与潭冲路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.168443997445,
+          31.7106803327538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "烟汕线肥西县上派镇青龙潭路与卫星路交口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188637825361,
+          31.7312939645752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "烟汕线肥西县花岗镇花岗新城水泥路农贸市场十字路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.061415273374,
+          31.6351150816758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "祝融路与汤口路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.173424869735,
+          31.7800932134419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "祝融路与长古路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.173506440367,
+          31.7840626363555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "繁华西路樱花路达益产业园4幢楼下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.173752638958,
+          31.803684172582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "繁华西路繁华逸城小区售楼部门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.179755930241,
+          31.7888165706836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "繁华西路繁华逸城购物广场出口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.179613490428,
+          31.7909853505503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "繁华西路繁华逸城门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.179613490428,
+          31.7909853505503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "翡翠路安徽财贸学院门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.184469129048,
+          31.7635563550249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "翡翠路桥向北200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.187353843159,
+          31.7572260910214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "翡翠路财贸学院公交站台"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.184469129048,
+          31.7635563550249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "肥西县103省道三河金地商业广场附近处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.256505335741,
+          31.5204501105954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县103省道三河镇三河加油站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.256457791126,
+          31.5224563098931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县103省道严店乡清风缘美食饭店门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.214539684113,
+          31.6364012067519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县三杭路三河街道古镇家园附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.248460859882,
+          31.523555506899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县三河街道三河镇政府门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.258179268771,
+          31.5211733105449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "肥西县三河镇三河街道富宁花园小区内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.258993830648,
+          31.5183450166672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "肥西县上派镇上小路新型家园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158598606785,
+          31.7425129100001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "肥西县上派镇上小路新型家园2号楼下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158598606785,
+          31.7425129100001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 8
+          },
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "肥西县上派镇上小路新型家园附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158598606785,
+          31.7425129100001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇南炼加油站附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.152663080975,
+          31.7123381710271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县上派镇合安路与站前路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15881024936,
+          31.7197932185741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "肥西县上派镇山南镇S315线22KM+560M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.880998022716,
+          31.6313634272859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 5
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇巢湖西路疾控中心门口 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.155414411091,
+          31.7136159632231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇派河大道翡翠路桥附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.187353843159,
+          31.7572260910214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇潭冲水库大坝"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.021788052921,
+          31.7553709853666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇潭冲路与站前路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.168443997445,
+          31.7106803327538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 8
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇潭冲路与站前路交口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.168443997445,
+          31.7106803327538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县上派镇潭冲路与青年南路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.176451172965,
+          31.7134421146461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇烟汕线206国道南炼加油站附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.152663080975,
+          31.7123381710271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇烟汕线南郢小区门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188551828777,
+          31.7342453783816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇烟汕线南郢小区附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188551828777,
+          31.7342453783816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇翡翠路桥附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.187353843159,
+          31.7572260910214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇金寨南路与合铜路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150659878552,
+          31.7104505693308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇金寨南路与方兴大道交口向西200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.19114938516,
+          31.7496566305779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇金寨南路春景花园公交站牌附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150581846346,
+          31.7143336249275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上派镇青龙潭路与卫星路交口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188637825361,
+          31.7312939645752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县严店乡严刘路严店村一队段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.212296463441,
+          31.6390536912546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县合铜路与严店乡严店街道交叉口向阳超市门前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.213235821513,
+          31.6382101843029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "肥西县山南镇S315线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.880998022716,
+          31.6313634272859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县山南镇杨桃路1km处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.879559341526,
+          31.6325187122365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县山洪路桂香超市门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.878297881641,
+          31.6320078799233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 6
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县桃花汤口路与文山路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150080061871,
+          31.7807699389576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 6
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县桃花镇明珠大道与玉兰大道交口西边200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.16312730981,
+          31.8092215749415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县桃花镇繁华新园西门门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.173666193223,
+          31.7821005843651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县桃花镇繁华逸城商业街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.179613490428,
+          31.7909853505503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 9
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县桃花镇长安路与樱花路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.173611693926,
+          31.8132884792235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县桃花镇集贤路与明珠路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20138839443,
+          31.806049114602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县森林大道华南城附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.094062854947,
+          31.774400173666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县森林大道紫蓬山派出所门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.032563871598,
+          31.752909500188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县森林大道紫蓬山派出所附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.032563871598,
+          31.752909500188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 6
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县紫蓬镇森林大道与环山路交叉口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.024919973522,
+          31.7421903445889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县繁华大道与泰山路交口向西50米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.177611551921,
+          31.7881486172547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县翡翠路安徽财贸学院门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.184469129048,
+          31.7635563550249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县金寨南路翡翠商业街附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.187353843159,
+          31.7572260910214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县香樟大道与明珠路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.191964971105,
+          31.8089531198371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西柏堰科技园杨林路废品回收公司门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.19062268708,
+          31.8010869975538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "金寨南路:金寨南路翡翠商业街附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.187353843159,
+          31.7572260910214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 5
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "金寨南路三十岗中国石油加油站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.199943594882,
+          31.7541309267021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "金寨南路与合铜路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.150659878552,
+          31.7104505693308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "金寨南路翡翠商业街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.187353843159,
+          31.7572260910214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "铭传路与玉兰大道交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.165036342866,
+          31.8011273756981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "铭传路与翠竹路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.169344467872,
+          31.8010405025585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 6
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "铭传路格力电器公司小南门附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.182026806146,
+          31.811146603364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长古路桃花镇繁华新园小区13幢楼下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.174595016866,
+          31.7821755331962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "长安街道杨林路与香樟大道交口以东30米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.195854280929,
+          31.8157892854154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "长安街道长安路与杭埠路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.177712716392,
+          31.8132277915983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长安街道香樟花园南门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.191269988962,
+          31.8131808869219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长安路62中门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.175396928805,
+          31.813420828849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "长安路香满园酒楼门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.185342815597,
+          31.8133812652716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "集贤路与明珠路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20138839443,
+          31.806049114602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "集贤路与明珠路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20138839443,
+          31.806049114602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "青年南路与潭冲路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.176451172965,
+          31.7134421146461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "香樟大道与杨林路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.195584789276,
+          31.8157892854154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "香樟大道肥西县香樟花园17幢附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.193028439066,
+          31.8150794962735
+        ]
+      }
+    }
+  ]
+}

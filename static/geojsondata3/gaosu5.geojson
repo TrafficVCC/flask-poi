@@ -1,0 +1,1445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 65,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速10KM+950M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速15km+400m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速1公里+700米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速32KM+600M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速47km+900m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速60KM+500M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速60公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速69KM+200M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速6KM+700M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速6公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速78公里200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速78公里900米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速86公里00米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速91公里+200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速95公里600米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线103KM+570M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线15公里＋100米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线34KM+400M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线50KM+700M附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线65公里200米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线66KM附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线67公里300米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线68KM+800M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线69公里附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线70公里200米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线79公里附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线84公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线85公里附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线86公里500米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线89公里500米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线90KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线90公里700米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线91公里800米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线93KM+800M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速上行线98KM+300M附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线32公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线45KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线52.2公里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线59KM附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线65公里100米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线65公里400米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线65公里附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线67公里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线67公里附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线71公里900米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线71公里附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线74公里+400米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线75KM+600M附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线77公里+300米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线78KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线79公里900米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线89公里400米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线90公里500米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线90公里700米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线97KM+300M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "合肥绕城高速下行线97公里500米附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.462155093463,
+          31.863024081599
+        ]
+      }
+    }
+  ]
+}

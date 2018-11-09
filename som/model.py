@@ -104,9 +104,9 @@ def storeSom(path, xzqh):
             print(count)
 
 if __name__ == '__main__':
-    # base = "../static/clusterdata2/"
-    # fileName = "feidongxianClusters.json"
-    # xzqh = "肥东县"
-    # path = base + fileName
-    # storeSom(path, xzqh)
-    getPoiByArea('市辖区')
+    base = "../static/clusterdata3/"
+    fileName = "yaohaiquClusters.json"
+    xzqh = "瑶海区"
+    path = base + fileName
+    storeSom(path, xzqh)
+    #getPoiByArea('市辖区')

@@ -1,0 +1,2849 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 5,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道0公里320米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道11公里00米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道11公里780米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道12KM+500m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里240米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里260米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里350米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里450米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里460米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里600米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里680米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里970米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道13公里980米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道14KM+100m（山南镇强力机械厂门口处）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道14公里10米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道15KM+900M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道15公里200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道15公里550米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道17公里350米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道18公里820米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道1KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道1公里100米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道1公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道22公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道26公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道4公里650米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道4公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道6公里150米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道6公里760米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道8公里750米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道9公里300米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道9公里730米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道:315省道0001公里000米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道山南菜市场路口标勇干洗店门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道山南镇强力机械厂门口处14KM+800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "315省道柿树街道柿树供电所门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 7
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "315省道肥西县山南镇杨桃路山南中学翟家树门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.895986558268,
+          31.6265474284673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "G312线合六路王祠店道口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.797900136769,
+          31.7833421888504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "创新大道与长古路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.137994251455,
+          31.7847538901515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "创新大道同福石材城"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.134487470659,
+          31.7883260613124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 7
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "南分路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.819467194436,
+          31.7595671795436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "宁西路与杨井路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158358726875,
+          31.7949229343007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "恒山路与汤口路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.159566525582,
+          31.7805986346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "杭埠路与香蒲路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.177975097957,
+          31.8049233688396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "森林大道与国三路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117508793148,
+          31.7858531132119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "森林大道华南城华二路与国二交口向东50米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117508793148,
+          31.7858531132119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "汤口路与恒山路交口东100米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.160464831092,
+          31.7805986346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "汤口路海乐塑料公司门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.162686553517,
+          31.7806132588664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "沪霍线546KM+800M(官亭镇金桥社区新民岔路口）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.757635029573,
+          31.7855024381623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 5
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "沪霍线肥西县官亭镇江夏村染坊村民组500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.808589702846,
+          31.8305248761946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "烟汕线肥西县花岗镇花岗街道水泥路红尘大酒店门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.067185718479,
+          31.6403183607771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "烟汕线金寨南路安利合成革公司公交站牌附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.131562962512,
+          31.7891044285132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "玉兰大道与桥湾路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.164971520242,
+          31.7766042529315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "玉兰大道与桥湾路交口朝阳物流门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.164971520242,
+          31.7766042529315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "玉兰大道与长古路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.165113960954,
+          31.7841924171731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "祝融路与桥湾路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.172521442087,
+          31.7764838920132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "繁华西路同福石材城合肥石美石雕店门口0000公里010米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.134487470659,
+          31.7883260613124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 4
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "繁华西路立恒工业广场A-14幢楼下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.152691287768,
+          31.7919965380353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道0公里900米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道11公里山南镇田园机械厂门口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道16KM+500M处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道17KM+800m处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道4公里150米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道5公里300米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道9KM+500m处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道小井庄路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "肥西县315省道山南街道乡村华联超市门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.833203453481,
+          31.5831392611857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县315省道金牛至托山水库村村通道路金牛段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.811654092433,
+          31.661687764608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县315省道金牛街道金牛卫生院门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.805987366581,
+          31.6634785750654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县315省道（7公里）杨桃路金牛街道金牛商店门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上三路上派镇金岗道班门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.203231393048,
+          31.6611812479314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县上三路严店乡财政所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.216967379907,
+          31.6366760122688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县上小路交头背附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.124016208093,
+          31.7595322555477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "肥西县上派镇天海路肥光小学门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.18250942707,
+          31.7490129601962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县上派镇山南镇315省道10KM+500M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "肥西县上派镇杨林路与集贤路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.205347799932,
+          31.8107665943918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县上派镇烟汕线五十埠三凯木业"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.134206495967,
+          31.6978998575276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县严店乡苏小街道三元叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.230428221177,
+          31.6014408406499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县山南镇315省道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县山南镇315省道14公里100米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县山南镇315省道23公里180米处附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县山南镇315省道3KM+40M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县山南镇315省道杨桃路与六合路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.944225660273,
+          31.6020539447152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县桃花镇汤口路与恒山路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.159566525582,
+          31.7805986346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县桃花镇玉兰大道与长古路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.165113960954,
+          31.7841924171731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 5
+          }
+        ],
+        "sgdd": "肥西县桃花镇集贤路与杨林路交口处附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.205347799932,
+          31.8107665943918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县桃花镇集贤路与铭传路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.195768278058,
+          31.7993666236469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县森林大道与派河大道交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117508793148,
+          31.7858531132119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县森林大道华南城华一路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117508793148,
+          31.7858531132119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 4
+          }
+        ],
+        "sgdd": "肥西县汤口路与恒山路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.159566525582,
+          31.7805986346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县沪霍线国道312线官亭镇金桥社区龙坊新村路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.757635029573,
+          31.7855024381623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县烟汕线四合小官塘水库附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.025829619241,
+          31.5826403874538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 7
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县烟汕线铭传乡南分路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.819467194436,
+          31.7595671795436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 7
+          },
+          {
+            "type": "金融",
+            "count": 2
+          }
+        ],
+        "sgdd": "肥西县烟汕线铭传乡南金路（042县道）金小圩小桥"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.816315759046,
+          31.7598772733419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "肥西县花孙路花岗中学门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.064347701881,
+          31.6404565472542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "肥西县花新路合肥大地新型建材有限公司门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.071700695396,
+          31.5945263338938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "肥西县花新路新仓中学前50米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.096659481583,
+          31.5581489632138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 3
+          },
+          {
+            "type": "美食",
+            "count": 5
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "花孙路肥西县花岗镇计划生育服务中心门口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.06685333466,
+          31.6378956706709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "花孙路花岗中学门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.064347701881,
+          31.6404565472542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "长古路与万佛山路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.14423574641,
+          31.7846346068672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "长安路与天竹路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.186242791057,
+          31.8131505020381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "长安路与天竹路交叉口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.186242791057,
+          31.8131505020381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "集贤路与铭传路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.195768278058,
+          31.7993666236469
+        ]
+      }
+    }
+  ]
+}

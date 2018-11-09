@@ -1,0 +1,2301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 106,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道0.8公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道0.9公里处柘皋工业园区路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道0公里250米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道10公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道10公里800米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道11公里400米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道11公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道12.7KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道12.8KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道12公里300米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道13公里500米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道14.7km处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道14.9公里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道14公里100米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道14公里800米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道15.4公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道1公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道2.15公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道2.2公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道2.3公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道2.6公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道29.1KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道29.2KM处与金鹏水泥厂路段交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道29.4KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道29.5KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道3.1公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道3.2公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道3.7公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道30.6KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道31.1KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道31.4KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道31.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道31.6KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道31.7KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.3KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.4KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.5KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.5KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.7KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.8KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.8KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道33.8KM银屏镇吕婆新街路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道34.2KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道34.4KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道34.9公里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道35.15公里处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道35.3KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道36.3KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道36.4KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道36.4KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道36.9KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道36.9KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道37.3KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道37.75KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道37.9KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道38KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道39.4KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道39.6KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道41KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道42.8KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道4公里100米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道5.3KM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道5.7KM路段处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道7410工厂下坡桥洞内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道8公里720米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道新修S316线01标段葛庄村路口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道金鹏水泥厂路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "208省道银屏镇海昌大道路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 10
+          }
+        ],
+        "sgdd": "世纪大道世纪新都路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.89203149409,
+          31.6105927768622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 10
+          }
+        ],
+        "sgdd": "东塘路世纪新都路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.89203149409,
+          31.6105927768622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "教育培训",
+            "count": 7
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "东塘路东塘小区路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.888611291979,
+          31.6081655953578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 10
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 10
+          }
+        ],
+        "sgdd": "健康东路市建委路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.890699120171,
+          31.6062143178548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "向阳路与三中路交叉口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.883535018746,
+          31.6142063480886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 10
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "向阳路幸福巷路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.881361324225,
+          31.6183657518923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "团结路与安成路洗耳池路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.880216368276,
+          31.602417097694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 6
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "团结路桃园大酒店转盘东侧路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.880791169718,
+          31.6024597567769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 7
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "巢湖中路金码头路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.871370669479,
+          31.5992914033099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          }
+        ],
+        "sgdd": "巢湖市208省道35.2KM处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.849995190733,
+          31.5675933901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 10
+          }
+        ],
+        "sgdd": "巢湖市世纪新都"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.89203149409,
+          31.6105927768622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 8
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "巢湖市东风西路东风路小学路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.872206407112,
+          31.6043833890645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "巢湖市向阳路联通公司路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.883826858443,
+          31.6135914822949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 2
+          }
+        ],
+        "sgdd": "巢湖市夏阁镇好运驾校门口路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.860273063395,
+          31.68947352179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 9
+          },
+          {
+            "type": "教育培训",
+            "count": 10
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "巢湖市巢湖中路耳街路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.881047007127,
+          31.6066919210775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "巢湖市巢湖路与人民路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.880852431459,
+          31.6141536201764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 8
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "巢湖路与团结路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.877753970941,
+          31.6034219638685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 5
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 9
+          }
+        ],
+        "sgdd": "巢湖路与官圩路交叉口000米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.874549607391,
+          31.5963013319997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 7
+          },
+          {
+            "type": "教育培训",
+            "count": 7
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "巢湖路世纪联华超市路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.880168194847,
+          31.6085081285122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 8
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 8
+          }
+        ],
+        "sgdd": "巢湖路中心商务酒店路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.879310001373,
+          31.6068629973811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 9
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "巢湖路巢湖路与人民路交叉口0米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.880852431459,
+          31.6141536201764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 8
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "巢湖路银屏雅苑路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.882828240954,
+          31.6122344782063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 10
+          },
+          {
+            "type": "教育培训",
+            "count": 6
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 7
+          }
+        ],
+        "sgdd": "洗耳池路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.879794590484,
+          31.6008254764414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 10
+          },
+          {
+            "type": "医疗",
+            "count": 8
+          },
+          {
+            "type": "教育培训",
+            "count": 8
+          },
+          {
+            "type": "美食",
+            "count": 10
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 6
+          }
+        ],
+        "sgdd": "青年路东风路小学门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.872206407112,
+          31.6043833890645
+        ]
+      }
+    }
+  ]
+}

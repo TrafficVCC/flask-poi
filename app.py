@@ -68,7 +68,7 @@ def typepoi():
 @app.route('/geojson', methods=['GET', 'POST'])
 def geojson():
     #存储geojson文件
-    path = "./static/geojsondata/"
+    path = "./static/geojsondata3/"
     data = json.loads(request.form.get('data'))
     filename = request.form.get('filename') + ".geojson"
     print(data)

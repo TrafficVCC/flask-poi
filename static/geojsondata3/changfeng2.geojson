@@ -1,0 +1,1257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 25,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道0161公里610米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道0163公里180米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道156公里加570米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道160公里850米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道162kn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道164公里700米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道165km+880m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道168km+750m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道168公里180米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道:311省道0167公里385米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道:311省道金瓦路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道与杨公路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道与水湖镇长丰县交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道水湖镇兴隆小学街道孙庆山家门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "311省道长丰县水湖镇张祠村路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.158001710621,
+          32.4656907095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 4
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "双凤区街道金华大道距双凤大道十几米处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.265115496077,
+          32.0030488389717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "双凤区街道（双凤加油站内）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.266750926896,
+          31.9995475391355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 4
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "双凤工业区凤霞路与金泰路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.293806967195,
+          31.9732272264437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "双凤工业区凤麟路与金福路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.280404572377,
+          31.980700445344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "双墩镇双凤路与凤麟路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.285946163373,
+          31.9743868742679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇吴店岔路口附近路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇新集村至吴店公路新集小学南100米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "双墩镇梅冲湖路与淮南北路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.302529545138,
+          32.0015821066163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "双墩镇街道凤麟路与金淮路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.282718401658,
+          31.9778302911418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇街道吴店至埠里公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇街道吴店至海宝村村通道路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 6
+          }
+        ],
+        "sgdd": "双墩镇街道金福路与凤锦路交叉路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.278214499052,
+          31.9799603606309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "双墩镇街道（埠里？？吴店段）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 6
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "合白公路三十头医院北150米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.344661061692,
+          31.9976410039431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 4
+          },
+          {
+            "type": "教育培训",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 7
+          },
+          {
+            "type": "购物",
+            "count": 10
+          },
+          {
+            "type": "金融",
+            "count": 3
+          }
+        ],
+        "sgdd": "吴山镇街道业余汽车俱乐部门前路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.077528089476,
+          32.0779110283575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "吴店公路口-尚岗村委会公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "吴店至埠里公路河东村窦郢房组路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "吴王路吴山派出所附近路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.094020874436,
+          32.0697189948542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "埠里至吴店公路双墩镇海宝村大圩村路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "岗集镇街道哑叭店街道味美酒家门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125345161264,
+          32.000451254195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "岗集镇街道老合淮路哑叭店街道农电站对面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125345161264,
+          32.000451254195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 2
+          },
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 7
+          },
+          {
+            "type": "金融",
+            "count": 1
+          }
+        ],
+        "sgdd": "水湖镇南一环与长淮路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.177824347021,
+          32.468644077897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 8
+          }
+        ],
+        "sgdd": "水湖镇长寿路:水湖镇长寿路:长寿路与S311路口200米"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.153516588888,
+          32.4903390478432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "沛庄公路创新村胡小街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.269172137822,
+          32.3983438321544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "沛河创新村胡小街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.269172137822,
+          32.3983438321544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "烟汕线合淮路长丰县义井小学门口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.11669408844,
+          32.2951991609317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "烟汕线合淮路长丰县岗集镇平安加油站段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.143998113162,
+          31.9899120437942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ],
+        "sgdd": "长丰县双凤区街道淮南北路与梅冲湖路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.302529545138,
+          32.0015821066163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 1
+          }
+        ],
+        "sgdd": "长丰县双凤区街道淮南北路与魏武路交口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.303088937047,
+          31.991082535574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 3
+          },
+          {
+            "type": "教育培训",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长丰县双凤区街道阜阳北路与梅冲湖路交叉口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.265795684987,
+          32.0010723066186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "长丰县双墩镇吴店至上洼公路尚岗村新塘组"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "长丰县双墩镇吴店至华丰村村通公路吴店窑场处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "购物",
+            "count": 3
+          }
+        ],
+        "sgdd": "长丰县双墩镇街道双墩至吴店公路与和尚田村岔路口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.301749366803,
+          32.0925597895798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "休闲娱乐",
+            "count": 1
+          },
+          {
+            "type": "医疗",
+            "count": 1
+          },
+          {
+            "type": "美食",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 6
+          }
+        ],
+        "sgdd": "长丰县合水路朱巷镇东方大酒店门前路段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.235400770666,
+          32.3334380299136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长丰县岗集镇哑叭店街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125345161264,
+          32.000451254195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "美食",
+            "count": 3
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ],
+        "sgdd": "长丰县岗集镇土山乡街道（卧龙山居委会）和顺街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125086000124,
+          32.0005906582266
+        ]
+      }
+    }
+  ]
+}
