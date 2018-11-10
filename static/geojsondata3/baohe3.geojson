@@ -1,6 +1,8 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9,38 +11,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ä¸‡æ³‰æ²³è·¯ä¸åºå·å¤§é“äº¤å£",
         "count": 1,
-        "sgdd": "ÍòÈªºÓÂ·ÓëÂ®Öİ´óµÀ½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 5,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 5
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49,38 +51,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ä¸œæµè·¯ä¸å´å¤§å¡˜è·¯äº¤å£",
         "count": 1,
-        "sgdd": "¶«Á÷Â·ÓëÎâ´óÌÁÂ·½»¿Ú",
         "poi": [
           {
-            "count": 4,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 4
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,38 +91,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ä¸œæµè·¯å›½å¼ºé’¢æå¸‚åœº",
         "count": 1,
-        "sgdd": "¶«Á÷Â·¹úÇ¿¸Ö²ÄÊĞ³¡",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 3,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 3
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -129,38 +131,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ä¹åå±±è·¯æ–‡æ™¯é›…å±…å°åŒºé—¨å‰",
         "count": 1,
-        "sgdd": "¾Å»ªÉ½Â·ÎÄ¾°ÑÅ¾ÓĞ¡ÇøÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -169,38 +171,38 @@
         ]
       },
       "properties": {
+        "sgdd": "äºŒç¯è·¯å›½å¼ºå¸‚åœºå¯¹é¢äº”é‡‘å•†è´¸åŸä¸‰æœŸ",
         "count": 1,
-        "sgdd": "¶ş»·Â·¹úÇ¿ÊĞ³¡¶ÔÃæÎå½ğÉÌÃ³³ÇÈıÆÚ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 3,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 3
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -209,38 +211,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åŒ…æ²³å¤§é“ä¸ç¹åå¤§é“äº¤å£",
         "count": 2,
-        "sgdd": "°üºÓ´óµÀÓë·±»ª´óµÀ½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 4
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -249,38 +251,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åŒ…æ²³å¤§é“ä¸ç¹åå¤§é“äº¤å£å—ä¾§çº¦300ç±³",
         "count": 1,
-        "sgdd": "°üºÓ´óµÀÓë·±»ª´óµÀ½»¿ÚÄÏ²àÔ¼300Ã×",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 4
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -289,38 +291,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åŒ…æ²³å¤§é“ä¸é•¿æ˜¥è¡—äº¤å£",
         "count": 1,
-        "sgdd": "°üºÓ´óµÀÓë³¤´º½Ö½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -329,38 +331,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åŒ…æ²³å¤§é“åŒ…æ²³è‹‘EåŒºè¥¿è¥¿é‡Œæ°´ç–—ä¸­å¿ƒé—¨å£",
         "count": 1,
-        "sgdd": "°üºÓ´óµÀ°üºÓÔ·EÇøÎ÷Î÷ÀïË®ÁÆÖĞĞÄÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -369,38 +371,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åŒ…æ²³å¤§é“æµ·ä¸–ç•Œæµ·é²œåŸé—¨å£",
         "count": 1,
-        "sgdd": "°üºÓ´óµÀº£ÊÀ½çº£ÏÊ³ÇÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 4
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,38 +411,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åŒ…æ²³è‹‘FåŒº3å¹¢æ¥¼ä¸‹",
         "count": 1,
-        "sgdd": "°üºÓÔ·FÇø3´±Â¥ÏÂ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -449,38 +451,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å‘¨è°·å †æ‰¹å‘å¸‚åœºå†…",
         "count": 1,
-        "sgdd": "ÖÜ¹È¶ÑÅú·¢ÊĞ³¡ÄÚ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -489,34 +491,34 @@
         ]
       },
       "properties": {
+        "sgdd": "å‘¨è°·å †è·¯å‘¨è°·å †æ‰¹å‘å¸‚åœºé—¨å£",
         "count": 1,
-        "sgdd": "ÖÜ¹È¶ÑÂ·ÖÜ¹È¶ÑÅú·¢ÊĞ³¡ÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -525,38 +527,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å‘¨è°·å †è·¯å‘¨è°·å †æ‰¹å‘å¸‚åœºé™„è¿‘",
         "count": 1,
-        "sgdd": "ÖÜ¹È¶ÑÂ·ÖÜ¹È¶ÑÅú·¢ÊĞ³¡¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -565,38 +567,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å‘¨è°·å †è·¯å‘¨è°·å †ç²®æ²¹æ‰¹å‘å¸‚åœºé—¨å£",
         "count": 1,
-        "sgdd": "ÖÜ¹È¶ÑÂ·ÖÜ¹È¶ÑÁ¸ÓÍÅú·¢ÊĞ³¡ÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -605,38 +607,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¤ªæ¹–è·¯ä¸‡æŒ¯é€é¥è‹‘å°åŒºé—¨å‰",
         "count": 1,
-        "sgdd": "Ì«ºşÂ·ÍòÕñåĞÒ£Ô·Ğ¡ÇøÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -645,38 +647,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¤ªæ¹–è·¯ä¸‡æŒ¯é€é¥è‹‘é—¨å£",
         "count": 1,
-        "sgdd": "Ì«ºşÂ·ÍòÕñåĞÒ£Ô·ÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -685,34 +687,34 @@
         ]
       },
       "properties": {
+        "sgdd": "å¤ªæ¹–è·¯ä¸­é“å››å±€èœåœºé™„è¿‘",
         "count": 1,
-        "sgdd": "Ì«ºşÂ·ÖĞÌúËÄ¾Ö²Ë³¡¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -721,38 +723,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¤ªæ¹–è·¯ä¸­é“å››å±€é™„è¿‘",
         "count": 1,
-        "sgdd": "Ì«ºşÂ·ÖĞÌúËÄ¾Ö¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,38 +763,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¤ªæ¹–è·¯åˆè‚¥å¸‚ç¬¬ä¸€äººæ°‘åŒ»é™¢é—¨è¯Šéƒ¨é™„è¿‘",
         "count": 1,
-        "sgdd": "Ì«ºşÂ·ºÏ·ÊÊĞµÚÒ»ÈËÃñÒ½ÔºÃÅÕï²¿¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -801,38 +803,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®å›½è·¯é’å¹´å°åŒºé—¨å£",
         "count": 1,
-        "sgdd": "Äş¹úÂ·ÇàÄêĞ¡ÇøÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -841,38 +843,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®å›½è·¯é’å¹´å°åŒºé™„è¿‘",
         "count": 1,
-        "sgdd": "Äş¹úÂ·ÇàÄêĞ¡Çø¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -881,38 +883,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ä¸æ°´é˜³æ±Ÿè·¯äº¤å£åŒ—ä¾§100ç±³",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·ÓëË®Ñô½­Â·½»¿Ú±±²à100Ã×",
         "poi": [
           {
-            "count": 7,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 7
           },
           {
-            "count": 1,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 1
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -921,38 +923,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ä¸é»„å±±è·¯äº¤å‰è·¯å£",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·Óë»ÆÉ½Â·½»²æÂ·¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -961,38 +963,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ä¸é»„å±±è·¯äº¤å£",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·Óë»ÆÉ½Â·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1001,38 +1003,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ä¾›ç”µè¥¿æ‘å°åŒºé—¨å‰",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·¹©µçÎ÷´åĞ¡ÇøÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1041,38 +1043,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ä¾›ç”µè¥¿æ‘é—¨å‰",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·¹©µçÎ÷´åÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1081,38 +1083,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ä¾›ç”µè¥¿æ‘é—¨å£",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·¹©µçÎ÷´åÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1121,38 +1123,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å®¿æ¾è·¯ç¬¬å…­äººæ°‘åŒ»é™¢é—¨å£",
         "count": 1,
-        "sgdd": "ËŞËÉÂ·µÚÁùÈËÃñÒ½ÔºÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 6,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 6
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1161,38 +1163,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å±¯æºªè·¯åˆè‚¥å·¥ä¸šå¤§å­¦ä¸œä¾§200ç±³",
         "count": 1,
-        "sgdd": "ÍÍÏªÂ·ºÏ·Ê¹¤Òµ´óÑ§¶«²à200Ã×",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,38 +1203,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å±¯æºªè·¯åˆè‚¥å·¥ä¸šå¤§å­¦é™„è¿‘",
         "count": 2,
-        "sgdd": "ÍÍÏªÂ·ºÏ·Ê¹¤Òµ´óÑ§¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1241,38 +1243,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å±¯æºªè·¯æ’å…´å¹¿åœºæ—æ–°æ²³åŸ‚å°åŒºé™„è¿‘",
         "count": 1,
-        "sgdd": "ÍÍÏªÂ·ºãĞË¹ã³¡ÅÔĞÂºÓ¹¡Ğ¡Çø¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1281,38 +1283,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å±¯æºªè·¯çœç”µåŠ›å…¬å¸å°åŒºé—¨å‰",
         "count": 1,
-        "sgdd": "ÍÍÏªÂ·Ê¡µçÁ¦¹«Ë¾Ğ¡ÇøÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1321,38 +1323,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å±¯æºªè·¯è¿œå¤§å®¶å›­é—¨å‰",
         "count": 1,
-        "sgdd": "ÍÍÏªÂ·Ô¶´ó¼ÒÔ°ÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1361,38 +1363,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å·¢æ¹–è·¯ä¸å‘¨è°·å †è·¯å£è¥¿çº¦100ç±³é™„è¿‘",
         "count": 1,
-        "sgdd": "³²ºşÂ·ÓëÖÜ¹È¶ÑÂ·¿ÚÎ÷Ô¼100Ã×¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1401,38 +1403,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å·¢æ¹–è·¯ä¸èŠœæ¹–è·¯äº¤å£åŒ—ä¾§",
         "count": 1,
-        "sgdd": "³²ºşÂ·ÓëÎßºşÂ·½»¿Ú±±²à",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1441,38 +1443,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å·¢æ¹–è·¯å‘¨è°·å †è”¬èœæ‰¹å‘å¸‚åœºå†…",
         "count": 1,
-        "sgdd": "³²ºşÂ·ÖÜ¹È¶ÑÊß²ËÅú·¢ÊĞ³¡ÄÚ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1481,38 +1483,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å·¢æ¹–è·¯å‘¨è°·å †é™„è¿‘",
         "count": 1,
-        "sgdd": "³²ºşÂ·ÖÜ¹È¶Ñ¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1521,38 +1523,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å·¢æ¹–è·¯å·¢æ¹–è·¯å°å­¦é—¨å£",
         "count": 1,
-        "sgdd": "³²ºşÂ·³²ºşÂ·Ğ¡Ñ§ÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 5,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 5
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1561,38 +1563,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åºå·å¤§é“ä¸ä¸‡æ³‰æ²³è·¯äº¤å‰è·¯å£é™„è¿‘",
         "count": 1,
-        "sgdd": "Â®Öİ´óµÀÓëÍòÈªºÓÂ·½»²æÂ·¿Ú¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 5,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 5
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1601,38 +1603,38 @@
         ]
       },
       "properties": {
+        "sgdd": "åºå·å¤§é“ä¸ä¸‡æ³‰æ²³è·¯è·¯å£",
         "count": 1,
-        "sgdd": "Â®Öİ´óµÀÓëÍòÈªºÓÂ·Â·¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 5,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 5
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1641,38 +1643,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“ä¸å¤ªæ¹–è·¯äº¤å‰å£",
         "count": 1,
-        "sgdd": "»ÕÖİ´óµÀÓëÌ«ºşÂ·½»²æ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1681,38 +1683,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“ä¸å¤ªæ¹–è·¯äº¤å‰è·¯å£",
         "count": 2,
-        "sgdd": "»ÕÖİ´óµÀÓëÌ«ºşÂ·½»²æÂ·¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1721,38 +1723,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“ä¸å¤ªæ¹–è·¯äº¤å£",
         "count": 3,
-        "sgdd": "»ÕÖİ´óµÀÓëÌ«ºşÂ·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1761,38 +1763,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“ä¸æ°´é˜³æ±Ÿè·¯äº¤å£",
         "count": 2,
-        "sgdd": "»ÕÖİ´óµÀÓëË®Ñô½­Â·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1801,38 +1803,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“ä¸é»„å±±è·¯äº¤å‰å£åŒ—200ç±³å¤„",
         "count": 1,
-        "sgdd": "»ÕÖİ´óµÀÓë»ÆÉ½Â·½»²æ¿Ú±±200Ã×´¦",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1841,38 +1843,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“å’Œå¹³é…’åº—é—¨å‰",
         "count": 1,
-        "sgdd": "»ÕÖİ´óµÀºÍÆ½¾ÆµêÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1881,38 +1883,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“å¤ªæ¹–è·¯è·¯å£",
         "count": 1,
-        "sgdd": "»ÕÖİ´óµÀÌ«ºşÂ·Â·¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1921,38 +1923,38 @@
         ]
       },
       "properties": {
+        "sgdd": "å¾½å·å¤§é“å¾½å·å¤§é“å¤ªæ¹–è·¯è·¯å£10ç±³",
         "count": 1,
-        "sgdd": "»ÕÖİ´óµÀ»ÕÖİ´óµÀÌ«ºşÂ·Â·¿Ú10Ã×",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1961,38 +1963,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿä¸œè·¯ä¸€è·¯åŒè¡Œå•†æ—…é…’åº—é—¨å‰",
         "count": 1,
-        "sgdd": "Íû½­¶«Â·Ò»Â·Í¬ĞĞÉÌÂÃ¾ÆµêÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2001,38 +2003,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿä¸œè·¯å«å²—å°å­¦å—åŒºé™„è¿‘",
         "count": 1,
-        "sgdd": "Íû½­¶«Â·ÎÀ¸ÚĞ¡Ñ§ÄÏÇø¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2041,38 +2043,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿä¸œè·¯å®‰å¾½çœå„¿ç«¥åŒ»é™¢é—¨å‰",
         "count": 1,
-        "sgdd": "Íû½­¶«Â·°²»ÕÊ¡¶ùÍ¯Ò½ÔºÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2081,38 +2083,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿä¸œè·¯çœç«‹å„¿ç«¥åŒ»é™¢å¯¹é¢",
         "count": 1,
-        "sgdd": "Íû½­¶«Â·Ê¡Á¢¶ùÍ¯Ò½Ôº¶ÔÃæ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 6
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2121,38 +2123,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿä¸œè·¯çœç«‹å„¿ç«¥åŒ»é™¢é—¨å‰",
         "count": 1,
-        "sgdd": "Íû½­¶«Â·Ê¡Á¢¶ùÍ¯Ò½ÔºÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 6
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2161,38 +2163,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿè·¯æ±Ÿæ·®å‚èŒå·¥å®¿èˆå†…",
         "count": 1,
-        "sgdd": "Íû½­Â·½­»´³§Ö°¹¤ËŞÉáÄÚ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 6,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 6
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2201,38 +2203,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æœ›æ±Ÿè·¯çœç«‹å„¿ç«¥åŒ»é™¢é—¨å£",
         "count": 1,
-        "sgdd": "Íû½­Â·Ê¡Á¢¶ùÍ¯Ò½ÔºÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 6
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2241,38 +2243,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æ°´é˜³æ±Ÿè·¯ä¸å¾½å·å¤§é“è·¯å£",
         "count": 1,
-        "sgdd": "Ë®Ñô½­Â·Óë»ÕÖİ´óµÀÂ·¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2281,38 +2283,38 @@
         ]
       },
       "properties": {
+        "sgdd": "æ·æ²³è·¯ï¼ˆå‘¨è°·å †ç¤¾å±…å§”ï¼‰",
         "count": 1,
-        "sgdd": "äÇºÓÂ·£¨ÖÜ¹È¶ÑÉç¾ÓÎ¯£©",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2321,38 +2323,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“(åŒ…æ²³è‹‘å°åŒºé—¨å£ï¼‰",
         "count": 1,
-        "sgdd": "·±»ª´óµÀ(°üºÓÔ·Ğ¡ÇøÃÅ¿Ú£©",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2361,38 +2363,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸ä¸Šæµ·è·¯äº¤å‰å£",
         "count": 1,
-        "sgdd": "·±»ª´óµÀÓëÉÏº£Â·½»²æ¿Ú",
         "poi": [
           {
-            "count": 9,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 9
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2401,38 +2403,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸ä¸Šæµ·è·¯äº¤å£",
         "count": 1,
-        "sgdd": "·±»ª´óµÀÓëÉÏº£Â·½»¿Ú",
         "poi": [
           {
-            "count": 9,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 9
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2441,38 +2443,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸å†…è’™è·¯äº¤å£",
         "count": 1,
-        "sgdd": "·±»ª´óµÀÓëÄÚÃÉÂ·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2481,38 +2483,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸åŒ…æ²³å¤§é“äº¤å£ä¸œä¾§",
         "count": 2,
-        "sgdd": "·±»ª´óµÀÓë°üºÓ´óµÀ½»¿Ú¶«²à",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 4
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2521,38 +2523,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸åŒ…æ²³å¤§é“äº¤å£ä¸œçº¦100ç±³",
         "count": 1,
-        "sgdd": "·±»ª´óµÀÓë°üºÓ´óµÀ½»¿Ú¶«Ô¼100Ã×",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 4
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2561,38 +2563,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸åŒ…æ²³å¤§é“è·¯å£",
         "count": 1,
-        "sgdd": "·±»ª´óµÀÓë°üºÓ´óµÀÂ·¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 4,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 4
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2601,38 +2603,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“ä¸å®å¤è·¯äº¤å£",
         "count": 2,
-        "sgdd": "·±»ª´óµÀÓëÄşÏÄÂ·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2641,38 +2643,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“åŒ…æ²³è‹‘å°åŒºå†…",
         "count": 1,
-        "sgdd": "·±»ª´óµÀ°üºÓÔ·Ğ¡ÇøÄÚ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2681,38 +2683,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“æ ¼æ—ä¸½æ™¯å°åŒºé™„è¿‘",
         "count": 2,
-        "sgdd": "·±»ª´óµÀ¸ñÁÖÀö¾°Ğ¡Çø¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 1,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 1
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2721,38 +2723,38 @@
         ]
       },
       "properties": {
+        "sgdd": "ç¹åå¤§é“æ ¼æ—é›…åœ°å°åŒºé™„è¿‘",
         "count": 2,
-        "sgdd": "·±»ª´óµÀ¸ñÁÖÑÅµØĞ¡Çø¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2761,38 +2763,38 @@
         ]
       },
       "properties": {
+        "sgdd": "èŠœæ¹–è·¯ä¸å·¢æ¹–è·¯äº¤å£",
         "count": 2,
-        "sgdd": "ÎßºşÂ·Óë³²ºşÂ·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 3,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 3
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2801,38 +2803,38 @@
         ]
       },
       "properties": {
+        "sgdd": "èŠœæ¹–è·¯ä¸é©¬éå±±è·¯äº¤å£",
         "count": 1,
-        "sgdd": "ÎßºşÂ·ÓëÂí°°É½Â·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 5,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 5
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2841,38 +2843,38 @@
         ]
       },
       "properties": {
+        "sgdd": "èŠœæ¹–è·¯ä¸­å›½çŸ³åŒ–å®‰å¾½åˆè‚¥çŸ³æ²¹åˆ†å…¬å¸",
         "count": 1,
-        "sgdd": "ÎßºşÂ·ÖĞ¹úÊ¯»¯°²»ÕºÏ·ÊÊ¯ÓÍ·Ö¹«Ë¾",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 5,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 5
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2881,38 +2883,38 @@
         ]
       },
       "properties": {
+        "sgdd": "èŠœæ¹–è·¯æ‹‰èŠ³èˆé—¨å£",
         "count": 1,
-        "sgdd": "ÎßºşÂ·À­·¼ÉáÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 6
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2921,38 +2923,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯ä¸‡æŒ¯é€é¥è‹‘å°åŒºé—¨å‰",
         "count": 1,
-        "sgdd": "Âí°°É½Â·ÍòÕñåĞÒ£Ô·Ğ¡ÇøÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2961,38 +2963,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯ä¸‡æŒ¯é€é¥è‹‘é™„è¿‘",
         "count": 1,
-        "sgdd": "Âí°°É½Â·ÍòÕñåĞÒ£Ô·¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 8,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 8
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 8
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3001,38 +3003,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯ä¸ä¹åå±±è·¯äº¤å£",
         "count": 1,
-        "sgdd": "Âí°°É½Â·Óë¾Å»ªÉ½Â·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 9
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3041,38 +3043,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯ä¸çš–æ±Ÿä¸œè·¯äº¤å£",
         "count": 1,
-        "sgdd": "Âí°°É½Â·ÓëÍî½­¶«Â·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 9,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 9
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3081,38 +3083,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯ä¸èŠœæ¹–è·¯äº¤å‰è·¯å£å—ä¾§çº¦10ç±³",
         "count": 2,
-        "sgdd": "Âí°°É½Â·ÓëÎßºşÂ·½»²æÂ·¿ÚÄÏ²àÔ¼10Ã×",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 10
           },
           {
-            "count": 5,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 5
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3121,38 +3123,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯äº¤è­¦æ”¯é˜Ÿå¯¹é¢",
         "count": 1,
-        "sgdd": "Âí°°É½Â·½»¾¯Ö§¶Ó¶ÔÃæ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3161,38 +3163,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯äº¤è­¦æ”¯é˜Ÿé—¨å‰",
         "count": 1,
-        "sgdd": "Âí°°É½Â·½»¾¯Ö§¶ÓÃÅÇ°",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3201,38 +3203,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯äº¤è­¦æ”¯é˜Ÿé—¨å£",
         "count": 1,
-        "sgdd": "Âí°°É½Â·½»¾¯Ö§¶ÓÃÅ¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3241,38 +3243,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯åˆè‚¥å¸‚äº¤è­¦æ”¯é˜Ÿå¯¹é¢",
         "count": 1,
-        "sgdd": "Âí°°É½Â·ºÏ·ÊÊĞ½»¾¯Ö§¶Ó¶ÔÃæ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 8,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 8
           },
           {
-            "count": 2,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 2
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3281,38 +3283,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯çš–èƒ½å¤§å¦å¯¹é¢",
         "count": 1,
-        "sgdd": "Âí°°É½Â·ÍîÄÜ´óÏÃ¶ÔÃæ",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3321,38 +3323,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯çš–èƒ½å¤§å¦é™„è¿‘",
         "count": 1,
-        "sgdd": "Âí°°É½Â·ÍîÄÜ´óÏÃ¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3361,38 +3363,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯é©¬éå±±è·¯ï¼ˆå¤ªæ¹–è·¯-ä¹åå±±è·¯ï¼‰1ç±³",
         "count": 1,
-        "sgdd": "Âí°°É½Â·Âí°°É½Â·£¨Ì«ºşÂ·-¾Å»ªÉ½Â·£©1Ã×",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 7
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3401,38 +3403,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é©¬éå±±è·¯é«˜æ¶æ¡¥çš–èƒ½å¤§å¦é™„è¿‘",
         "count": 1,
-        "sgdd": "Âí°°É½Â·¸ß¼ÜÇÅÍîÄÜ´óÏÃ¸½½ü",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 4,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 4
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 7,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 7
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3441,38 +3443,38 @@
         ]
       },
       "properties": {
+        "sgdd": "é»„å±±è·¯ä¸å®¿æ¾è·¯äº¤å‰å£å—ä¾§çº¦100ç±³å¤„",
         "count": 1,
-        "sgdd": "»ÆÉ½Â·ÓëËŞËÉÂ·½»²æ¿ÚÄÏ²àÔ¼100Ã×´¦",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "ÃÀÊ³"
+            "type": "ç¾é£Ÿ",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3481,33 +3483,31 @@
         ]
       },
       "properties": {
+        "sgdd": "é»„å±±è·¯ä¸å®¿æ¾è·¯äº¤å£",
         "count": 1,
-        "sgdd": "»ÆÉ½Â·ÓëËŞËÉÂ·½»¿Ú",
         "poi": [
           {
-            "count": 10,
-            "type": "ĞİÏĞÓéÀÖ"
+            "type": "ä¼‘é—²å¨±ä¹",
+            "count": 10
           },
           {
-            "count": 6,
-            "type": "Ò½ÁÆ"
+            "type": "åŒ»ç–—",
+            "count": 6
           },
           {
-            "count": 7,
-            "type": "½ÌÓıÅàÑµ"
+            "type": "æ•™è‚²åŸ¹è®­",
+            "count": 7
           },
           {
-            "count": 10,
-            "type": "¹ºÎï"
+            "type": "è´­ç‰©",
+            "count": 10
           },
           {
-            "count": 10,
-            "type": "½ğÈÚ"
+            "type": "é‡‘è",
+            "count": 10
           }
         ]
-      },
-      "type": "Feature"
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }

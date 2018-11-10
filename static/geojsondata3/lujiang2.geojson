@@ -1,0 +1,525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "103省道庐江县同大镇新渡路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.335158157194,
+          31.510409003585
+        ]
+      },
+      "properties": {
+        "sgdd": "319省道军二路庐江县万山镇水关村鑫隆超市西侧",
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.335158157194,
+          31.510409003585
+        ]
+      },
+      "properties": {
+        "sgdd": "庐(江)枞（阳）公路“鑫隆超市店”向南70米处",
+        "count": 1,
+        "poi": [
+          {
+            "type": "购物",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇临圣村第21村民组处的三叉路口",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇二龙街道同大医院附近路段处",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇五连村第七村民组段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇农林小学路段处",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇新河村第十二村民组路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇永兴村第十村民组路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇灵台村南林四队路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇盛同路至紫荆村第十一村民组路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇薛圩村六队路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇西湾村村村通公路胡湾第六村民组路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇西湾村水泥路上东村民组路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇连尾村五队段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县同大镇韦桥大道路段",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县白（山）果（树）公路同大镇新渡中学门前",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "庐江县盛同路同大镇电信局前",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.274384106391,
+          31.5055317465633
+        ]
+      },
+      "properties": {
+        "sgdd": "盛(桥)同（大）公路同大卫生院前",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "盛同公路同大镇天香园酒店前",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "盛同路(庐江县同大镇财政所门前)",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.273361922755,
+          31.506130543777
+        ]
+      },
+      "properties": {
+        "sgdd": "老合铜公路与同大镇二龙新街交叉口处",
+        "count": 1,
+        "poi": [
+          {
+            "type": "医疗",
+            "count": 2
+          },
+          {
+            "type": "购物",
+            "count": 10
+          }
+        ]
+      }
+    }
+  ]
+}

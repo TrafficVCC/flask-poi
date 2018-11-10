@@ -94,8 +94,8 @@
         markerclusters.clearLayers();
         window.type = d.type;
         geoFile = geojsondataPath + xzqh_value + window.type + ".geojson";
-        //drawGeoType(geoFile);
-        updateTypePoi(d.type);
+        drawGeoType(geoFile);
+        //updateTypePoi(d.type);
         var text = "当前类别-class" + window.type;
         $(".type").html(text);
     });
