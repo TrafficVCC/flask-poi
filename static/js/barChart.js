@@ -90,7 +90,7 @@
         if (d.type == window.type)
             return;
         poilegend.remove();
-        geoLayer.clearLayers();
+        //geoLayer.clearLayers();   //能不能支持多选
         markerclusters.clearLayers();
         window.type = d.type;
         var geoFile = geojsondataPath + xzqh_value + window.type + ".geojson";

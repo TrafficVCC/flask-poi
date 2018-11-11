@@ -125,6 +125,10 @@
     poilegend = L.control({position: 'bottomright'});
     linedata = [];  //存储平行坐标图数据
 
+    //支持对多类别进行分析, 存储选择的类别及其对应的geoLayer
+    typeList = {"all": null, "0": null, "1": null, "2": null, "3": null,
+                "4": null, "5": null, "6": null, "7": null, "8": null};
+
     //选择侧边栏行政区划, 更新cluster
     $(".nav-sidebar li").on("click", function() {
         $(".nav-sidebar li").removeClass("active");
