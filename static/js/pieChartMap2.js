@@ -8,7 +8,7 @@ poicolor = [
     {'fill': "#CCC", 'stroke': '#444'}
 ];
 
-function drawGeoType(geojsonPath) {
+function drawPieChart2(geojsonPath) {
     renderLegend();
 
     d3.json(geojsonPath, function(error, data) {

@@ -93,8 +93,10 @@
         geoLayer.clearLayers();
         markerclusters.clearLayers();
         window.type = d.type;
-        geoFile = geojsondataPath + xzqh_value + window.type + ".geojson";
-        drawGeoType(geoFile);
+        var geoFile = geojsondataPath + xzqh_value + window.type + ".geojson";
+        //drawPieChart(geoFile);
+        drawMarkers(geoFile);
+        myselectCtr.addTo(map);
         //updateTypePoi(d.type);
         var text = "当前类别-class" + window.type;
         $(".type").html(text);

@@ -34,7 +34,7 @@ markerclusters = L.markerClusterGroup({
 map.addLayer(markerclusters);
 
 
-function drawGeoType(geojsonPath) {
+function drawPieChart(geojsonPath) {
     renderLegend();
 
     d3.json(geojsonPath, function(error, data) {
