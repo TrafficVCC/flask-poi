@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -142,7 +141,9 @@
         geoLayer.clearLayers();
         markerclusters.clearLayers();
         poilegend.remove();
-        myselectCtr.getContainer().innerHTML='';
+        if(!myselectCtr == undefined && !myselectCtr.getContainer() == undefined) {
+            myselectCtr.getContainer().innerHTML='';
+        }
         window.type = "all";
         var text = "当前类别-" + window.type;
         $(".type").html(text);
